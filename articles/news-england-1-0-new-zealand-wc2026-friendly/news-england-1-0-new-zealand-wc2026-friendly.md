@@ -1,9 +1,10 @@
 # Англия 1:0 Новая Зеландия — гол Кейна на 45-й минуте приносит победу «Трём львам»
 
-**Slug:** england-1-0-new-zealand-wc2026-friendly  
+**Slug (DB):** england-1-0-new-zealand-wc2026-friendly-2  
 **Category:** Отчёты о матчах  
 **Type:** match_report  
 **Source type:** news  
+**Image URL:** none  
 
 ---
 
@@ -48,6 +49,12 @@
 «Олл-Уайтс» попали в группу G вместе с Ираном, Египтом и Бельгией. Несмотря на поражение, команда не выглядела безнадёжно — в первом тайме соперники действовали на равных. Само по себе участие Новой Зеландии в ЧМ-2026 — исторический успех в эпоху расширенного формата турнира с 48 командами.
 
 > *Источники: 101greatgoals, Sports Mole, World Soccer Talk*
+
+## Видео по теме
+
+[![Англия 1:0 Новая Зеландия — хайлайты (Кейн — 67-й гол в сезоне!)](https://img.youtube.com/vi/OTfxv7maySo/hqdefault.jpg)](https://www.youtube.com/watch?v=OTfxv7maySo)
+
+[Смотреть на YouTube →](https://www.youtube.com/watch?v=OTfxv7maySo)
 
 ---
 

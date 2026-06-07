@@ -1,28 +1,17 @@
 {
   "run_id": "run-20260607-c2721e42",
-  "generated_at": "2026-06-07T13:42:25Z",
-  "publish_status": "success",
-  "articles_published": 8,
-  "news_count": 5,
-  "trend_count": 3,
-  "slugs": [
-    "neymar-calf-injury-world-cup-2026",
-    "belgium-5-0-tunisia-world-cup-2026-friendly",
-    "germany-karl-injured-ouedraogo-called-up-wc2026",
-    "england-1-0-new-zealand-wc2026-friendly",
-    "messi-fitness-argentina-world-cup-2026-opener",
-    "top-7-favourites-world-cup-2026",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026",
-    "mexico-vs-south-africa-world-cup-2026-opening"
-  ],
-  "db_ids": {
-    "neymar-calf-injury-world-cup-2026": "e05ed4a4-6b75-4530-8b8e-4970eac205a0",
-    "belgium-5-0-tunisia-world-cup-2026-friendly": "fa1f2c6f-7354-4485-9cd3-c2ec27b124ca",
-    "germany-karl-injured-ouedraogo-called-up-wc2026": "57414e99-b21f-4536-854b-93b43ff79b6a",
-    "england-1-0-new-zealand-wc2026-friendly": "3504b415-a32b-41cf-9989-0a58570c9890",
-    "messi-fitness-argentina-world-cup-2026-opener": "1f8fcc6e-08b4-4a71-8abf-7d5cd8bfc3e5",
-    "top-7-favourites-world-cup-2026": "68cd1ff2-050e-47b8-b9a3-63bbe5251783",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026": "dcf6bfdd-339f-4392-9158-4441223d8413",
-    "mexico-vs-south-africa-world-cup-2026-opening": "6c9ae2a4-ec84-4a24-bd85-1fbdc78f1402"
-  }
+  "generated_at": "2026-06-07T14:00:00Z",
+  "phase": "media_update",
+  "articles_with_images": 7,
+  "articles_with_youtube": 8,
+  "db_slugs": [
+    "neymar-calf-injury-world-cup-2026-2",
+    "belgium-5-0-tunisia-world-cup-2026-friendly-2",
+    "germany-karl-injured-ouedraogo-called-up-wc2026-2",
+    "england-1-0-new-zealand-wc2026-friendly-2",
+    "messi-fitness-argentina-world-cup-2026-opener-2",
+    "top-7-favourites-world-cup-2026-2",
+    "norway-vs-iraq-haaland-world-cup-debut-june-2026-2",
+    "mexico-vs-south-africa-world-cup-2026-opening-2"
+  ]
 }

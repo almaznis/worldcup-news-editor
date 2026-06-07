@@ -1,9 +1,10 @@
 # Норвегия против Ирака (16 июня): Холанд ведёт «Викингов» на первый ЧМ за 28 лет
 
-**Slug:** norway-vs-iraq-haaland-world-cup-debut-june-2026  
+**Slug (DB):** norway-vs-iraq-haaland-world-cup-debut-june-2026-2  
 **Category:** ЧМ-2026  
 **Type:** preview  
 **Source type:** trend  
+**Image URL:** https://upload.wikimedia.org/wikipedia/commons/7/71/Erling_Haaland_June_2025.jpg  
 
 ---
 
@@ -55,6 +56,12 @@
 **Вероятный исход:** победа Норвегии. Холанд забивает на своём дебютном матче ЧМ.
 
 > *Источники: FIFA.com, Bleacher Report, Yahoo Sports*
+
+## Видео по теме
+
+[![Как далеко зайдёт Норвегия на ЧМ-2026?](https://img.youtube.com/vi/zldEDHQFllw/hqdefault.jpg)](https://www.youtube.com/watch?v=zldEDHQFllw)
+
+[Смотреть на YouTube →](https://www.youtube.com/watch?v=zldEDHQFllw)
 
 ---
 

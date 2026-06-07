@@ -1,9 +1,10 @@
 # Месси тренируется в щадящем режиме: Скалони подтвердил готовность капитана к матчу с Алжиром 16 июня
 
-**Slug:** messi-fitness-argentina-world-cup-2026-opener  
+**Slug (DB):** messi-fitness-argentina-world-cup-2026-opener-2  
 **Category:** Новости игроков  
 **Type:** transfer  
 **Source type:** news  
+**Image URL:** https://upload.wikimedia.org/wikipedia/commons/c/c1/Lionel_Messi_20180626.jpg  
 
 ---
 
@@ -34,6 +35,12 @@
 Защита титула никогда не бывает лёгкой: последними, кто выиграл два мировых первенства подряд, были бразильцы в 1958 и 1962 годах. Сейчас «альбиселесте» стремятся повторить этот подвиг. Всё это на фоне тревоги за здоровье своего лидера — именно такой контекст сопровождает Аргентину в первые дни предтурнирного лагеря.
 
 > *Источники: CBS Sports, Bleacher Report, World Soccer Talk*
+
+## Видео по теме
+
+[![Месси на ЧМ-2026: последний шанс Аргентины?](https://img.youtube.com/vi/yhTRnnsx99g/hqdefault.jpg)](https://www.youtube.com/watch?v=yhTRnnsx99g)
+
+[Смотреть на YouTube →](https://www.youtube.com/watch?v=yhTRnnsx99g)
 
 ---
 

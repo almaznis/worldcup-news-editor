@@ -1,9 +1,10 @@
 # Неймар выбывает с открытия ЧМ-2026: МРТ подтвердило разрыв мышцы голени второй степени
 
-**Slug:** neymar-calf-injury-world-cup-2026  
+**Slug (DB):** neymar-calf-injury-world-cup-2026-2  
 **Category:** ЧМ-2026  
 **Type:** transfer  
 **Source type:** news  
+**Image URL:** https://upload.wikimedia.org/wikipedia/commons/7/7d/Neymar_cropped_image.png  
 
 ---
 
@@ -40,6 +41,12 @@
 В случае отсутствия Неймара на поле в матче с Марокко основную нагрузку возьмут на себя Виниций Жуниор, Рафинья и Эндрик. Тренерский штаб уже прорабатывает возможные стартовые расстановки без звёздного лидера. Бразилия — по-прежнему один из главных претендентов на титул, однако неопределённость с Неймаром добавляет нервозности накануне важнейшего турнира четырёхлетия.
 
 > *Источники: ESPN, Al Jazeera, FIFA.com*
+
+## Видео по теме
+
+[![Бразилия на ЧМ-2026: превью](https://img.youtube.com/vi/nBsDhI_PubM/hqdefault.jpg)](https://www.youtube.com/watch?v=nBsDhI_PubM)
+
+[Смотреть на YouTube →](https://www.youtube.com/watch?v=nBsDhI_PubM)
 
 ---
 

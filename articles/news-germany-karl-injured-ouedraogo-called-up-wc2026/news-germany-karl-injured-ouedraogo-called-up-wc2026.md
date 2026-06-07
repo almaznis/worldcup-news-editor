@@ -1,9 +1,10 @@
 # Карль вне ЧМ-2026: травма бедра на тренировке — Нагельсманн срочно вызвал Уэдраого
 
-**Slug:** germany-karl-injured-ouedraogo-called-up-wc2026  
+**Slug (DB):** germany-karl-injured-ouedraogo-called-up-wc2026-2  
 **Category:** ЧМ-2026  
 **Type:** transfer  
 **Source type:** news  
+**Image URL:** https://upload.wikimedia.org/wikipedia/commons/1/17/2026_FIFA_World_Cup_emblem.svg  
 
 ---
 
@@ -32,6 +33,12 @@
 Германия входит в чемпионат мира как один из наиболее боеспособных европейских коллективов. Первый официальный матч турнира покажет, способна ли «Бундесманншафт» претендовать на золото.
 
 > *Источники: ESPN, bulinews.de, OneFootball*
+
+## Видео по теме
+
+[![США 1:2 Германия — хайлайты (официальный канал DFB)](https://img.youtube.com/vi/2CcSe1TpsZI/hqdefault.jpg)](https://www.youtube.com/watch?v=2CcSe1TpsZI)
+
+[Смотреть на YouTube →](https://www.youtube.com/watch?v=2CcSe1TpsZI)
 
 ---
 

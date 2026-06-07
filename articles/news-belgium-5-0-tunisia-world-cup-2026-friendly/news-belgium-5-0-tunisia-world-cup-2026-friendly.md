@@ -1,9 +1,10 @@
 # Бельгия 5:0 Тунис — разгром накануне ЧМ: Дьоку дирижирует, Де Брёйне завершает
 
-**Slug:** belgium-5-0-tunisia-world-cup-2026-friendly  
+**Slug (DB):** belgium-5-0-tunisia-world-cup-2026-friendly-2  
 **Category:** Отчёты о матчах  
 **Type:** match_report  
 **Source type:** news  
+**Image URL:** https://upload.wikimedia.org/wikipedia/commons/c/c1/Kevin_De_Bruyne_WC2022.jpg  
 
 ---
 
@@ -50,6 +51,12 @@
 «Красные дьяволы» входят в турнир в роли одного из самых неудобных соперников для любого из фаворитов. Атакующий дуэт Дьоку — Де Брёйне в связке с Лукаку и Де Кетеларе образует одну из самых разнообразных линий нападения на ЧМ-2026. Тринадцать матчей без поражений — это не случайность, а отражение реального класса команды.
 
 > *Источники: ESPN, Flashscore.com, beIN Sports, africatopsports.com*
+
+## Видео по теме
+
+[![Бельгия 5:0 Тунис — хайлайты](https://img.youtube.com/vi/bTBJNWjlQlk/hqdefault.jpg)](https://www.youtube.com/watch?v=bTBJNWjlQlk)
+
+[Смотреть на YouTube →](https://www.youtube.com/watch?v=bTBJNWjlQlk)
 
 ---
 

@@ -1,9 +1,10 @@
 # Мексика против ЮАР: «Ацтека» открывает ЧМ-2026 историческим третьим финальным свистком (11 июня)
 
-**Slug:** mexico-vs-south-africa-world-cup-2026-opening  
+**Slug (DB):** mexico-vs-south-africa-world-cup-2026-opening-2  
 **Category:** ЧМ-2026  
 **Type:** preview  
 **Source type:** trend  
+**Image URL:** https://upload.wikimedia.org/wikipedia/commons/0/07/Vista_a%C3%A9rea_del_Estadio_Azteca_-_2026_-_02.jpg  
 
 ---
 
@@ -48,6 +49,12 @@
 **Вероятный исход:** победа Мексики 2:0 или 2:1.
 
 > *Источники: Yahoo Sports, ESPN, Goal.com, Wikipedia*
+
+## Видео по теме
+
+[![Мексика против ЮАР — превью открытия ЧМ-2026](https://img.youtube.com/vi/UoKvrLA6tMI/hqdefault.jpg)](https://www.youtube.com/watch?v=UoKvrLA6tMI)
+
+[Смотреть на YouTube →](https://www.youtube.com/watch?v=UoKvrLA6tMI)
 
 ---
 

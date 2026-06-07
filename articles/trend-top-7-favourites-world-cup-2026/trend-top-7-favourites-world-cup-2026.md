@@ -1,9 +1,10 @@
 # Топ-7 фаворитов ЧМ-2026: кто поднимет трофей на «Метлайф Стэдиум» в июле?
 
-**Slug:** top-7-favourites-world-cup-2026  
+**Slug (DB):** top-7-favourites-world-cup-2026-2  
 **Category:** Тренды  
 **Type:** ranking  
 **Source type:** trend  
+**Image URL:** https://upload.wikimedia.org/wikipedia/commons/1/17/2026_FIFA_World_Cup_emblem.svg  
 
 ---
 
@@ -46,6 +47,12 @@
 ---
 
 > *Источники: ESPN, Fox Sports, Opta / The Analyst*
+
+## Видео по теме
+
+[![Полный прогноз ЧМ-2026: кто победит?](https://img.youtube.com/vi/R9wzwNlQzow/hqdefault.jpg)](https://www.youtube.com/watch?v=R9wzwNlQzow)
+
+[Смотреть на YouTube →](https://www.youtube.com/watch?v=R9wzwNlQzow)
 
 ---
 
