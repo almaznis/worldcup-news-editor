@@ -1,15 +1,25 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
+  "run_id": "run-20260607-b1-ec8f",
+  "generated_at": "2026-06-07T16:27:33.563001+00:00",
   "count": 8,
   "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
+    "portugal-2-1-chile-friendly-wc2026",
+    "turkey-2-1-venezuela-friendly-wc2026",
+    "iran-usa-visa-dispute-world-cup-2026",
+    "usa-chris-richards-injury-doubt-wc2026-opener",
+    "brazil-morocco-world-cup-2026-opener-preview",
+    "armenia-1-1-kazakhstan-friendly-june-2026",
+    "kazakhstan-hungary-friendly-preview-june-2026",
+    "top-7-matches-world-cup-2026-opening-weekend"
+  ],
+  "manifest_slugs": [
+    "portugal-2-1-chile-friendly-wc2026",
+    "turkey-2-1-venezuela-friendly-wc2026",
+    "iran-usa-visa-dispute-world-cup-2026",
+    "usa-chris-richards-injury-doubt-wc2026-opener",
+    "brazil-morocco-world-cup-2026-opener-preview",
+    "armenia-1-1-kazakhstan-friendly-june-2026",
+    "kazakhstan-hungary-friendly-preview-june-2026",
+    "top-7-matches-world-cup-2026-opening-weekend"
   ]
 }
