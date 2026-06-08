@@ -1,15 +1,21 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
-  "count": 8,
-  "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
+  "run_id": "run-20260608-a3738019",
+  "generated_at": "2026-06-08T09:30:00Z",
+  "finished_at": "2026-06-08T08:20:01.127542+00:00",
+  "counts": {
+    "total": 8,
+    "news": 5,
+    "trend": 3,
+    "inserted": 8
+  },
+  "slugs": [
+    "portugal-2-1-chile-leao-red-card-wc2026",
+    "argentina-2-0-honduras-lautaro-simeone-wc2026",
+    "scotland-4-0-bolivia-wc2026-warmup",
+    "brazil-wesley-injury-ederson-callup-wc2026",
+    "paraguay-enciso-injury-wc2026",
+    "uzbekistan-debut-world-cup-2026-group-k",
+    "top-7-golden-boot-contenders-wc2026",
+    "world-cup-2026-opening-ceremony-shakira-azteca"
   ]
 }
