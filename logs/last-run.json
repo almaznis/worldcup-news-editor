@@ -1,15 +1,23 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
+  "run_id": "run-20260609-43ae204b",
+  "generated_at": "2026-06-09T00:35:00Z",
   "count": 8,
   "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
+    "netherlands-timber-out-world-cup-2026-geertruida-2",
+    "uzbekistan-world-cup-2026-debut-preview-colombia-2",
+    "colombia-2-0-jordan-friendly-arias-brace-june-2026-2",
+    "brazil-wesley-out-world-cup-2026-ederson-called-up-2",
+    "usa-paraguay-world-cup-2026-opener-preview-june-12-2",
+    "world-cup-2026-veterans-last-dance-top-7",
+    "croatia-2-1-slovenia-friendly-modric-pasalic-june-2026",
+    "spain-cape-verde-world-cup-2026-opener-yamal-june-15"
+  ],
+  "notes": "ВНИМАНИЕ: первый батч-запрос вернул WORKER_RESOURCE_LIMIT (HTTP 546) и, судя по всему, частично вставил первые 5 статей до сбоя воркера. Повторная поштучная отправка создала дубликаты с суффиксом -2 для: netherlands-timber-out-world-cup-2026-geertruida, uzbekistan-world-cup-2026-debut-preview-colombia, colombia-2-0-jordan-friendly-arias-brace-june-2026, brazil-wesley-out-world-cup-2026-ederson-called-up, usa-paraguay-world-cup-2026-opener-preview-june-12. Требуется ручное удаление 5 дублей-сирот (базовые слаги без -2) в Supabase. Эндпойнт publish-articles поддерживает только INSERT, удаление через него невозможно.",
+  "duplicate_base_slugs": [
+    "netherlands-timber-out-world-cup-2026-geertruida",
+    "uzbekistan-world-cup-2026-debut-preview-colombia",
+    "colombia-2-0-jordan-friendly-arias-brace-june-2026",
+    "brazil-wesley-out-world-cup-2026-ederson-called-up",
+    "usa-paraguay-world-cup-2026-opener-preview-june-12"
   ]
 }
