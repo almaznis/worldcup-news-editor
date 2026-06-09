@@ -1,15 +1,18 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
+  "run_id": "run-20260609-032e77be",
+  "generated_at": "2026-06-09T17:04:18.224863+00:00",
+  "phase": "news+trend_v2_dedup_vs_db",
   "count": 8,
+  "inserted": 8,
   "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
-  ]
+    "somali-referee-artan-denied-us-entry-world-cup-2026",
+    "iran-fans-tickets-revoked-world-cup-2026",
+    "morocco-1-1-norway-friendly-haaland-june-2026",
+    "canada-1-1-ireland-friendly-montreal-june-2026",
+    "argentina-algeria-world-cup-2026-opener-messi-june-16",
+    "england-croatia-world-cup-2026-preview-june-17",
+    "top-7-dark-horses-world-cup-2026",
+    "top-7-coaches-world-cup-2026"
+  ],
+  "note": "Deduplicated against live Supabase DB after discovering parallel runs had flooded the portal; see articles-history.jsonl run_correction line."
 }
