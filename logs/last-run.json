@@ -1,15 +1,59 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
+  "run_id": "run-20260610-ddd0e95f",
+  "generated_at": "2026-06-10T08:39:07.050341+00:00",
+  "phase": "media_v4_ru_landscape",
   "count": 8,
+  "counts": {
+    "news": 5,
+    "trend": 3,
+    "inserted": 8,
+    "errors": 0
+  },
+  "slugs_requested": [
+    "hungary-3-1-kazakhstan-friendly-june-2026",
+    "netherlands-timber-out-geertruida-world-cup-2026",
+    "usa-paraguay-world-cup-2026-group-d-preview",
+    "top-7-young-stars-world-cup-2026",
+    "argentina-3-0-iceland-messi-record-june-2026",
+    "iran-world-cup-2026-tickets-revoked-fifa",
+    "uzbekistan-world-cup-2026-debut-preview",
+    "ronaldo-sixth-final-world-cup-2026"
+  ],
   "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
-  ]
+    "hungary-3-1-kazakhstan-friendly-june-2026-2",
+    "netherlands-timber-out-geertruida-world-cup-2026-2",
+    "usa-paraguay-world-cup-2026-group-d-preview-2",
+    "top-7-young-stars-world-cup-2026-3",
+    "argentina-3-0-iceland-messi-record-june-2026-2",
+    "iran-world-cup-2026-tickets-revoked-fifa-2",
+    "uzbekistan-world-cup-2026-debut-preview",
+    "ronaldo-sixth-final-world-cup-2026"
+  ],
+  "collisions": [
+    {
+      "requested": "hungary-3-1-kazakhstan-friendly-june-2026",
+      "inserted": "hungary-3-1-kazakhstan-friendly-june-2026-2"
+    },
+    {
+      "requested": "netherlands-timber-out-geertruida-world-cup-2026",
+      "inserted": "netherlands-timber-out-geertruida-world-cup-2026-2"
+    },
+    {
+      "requested": "usa-paraguay-world-cup-2026-group-d-preview",
+      "inserted": "usa-paraguay-world-cup-2026-group-d-preview-2"
+    },
+    {
+      "requested": "top-7-young-stars-world-cup-2026",
+      "inserted": "top-7-young-stars-world-cup-2026-3"
+    },
+    {
+      "requested": "argentina-3-0-iceland-messi-record-june-2026",
+      "inserted": "argentina-3-0-iceland-messi-record-june-2026-2"
+    },
+    {
+      "requested": "iran-world-cup-2026-tickets-revoked-fifa",
+      "inserted": "iran-world-cup-2026-tickets-revoked-fifa-2"
+    }
+  ],
+  "note": "6/8 base slugs already existed from an earlier run not recorded in articles-history.jsonl; endpoint appended -2/-3 (expected per CLAUDE.md). uzbekistan and ronaldo were fresh."
 }
