@@ -1,15 +1,28 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
+  "run_id": "run-20260614-wc26r2",
+  "generated_at": "2026-06-14T01:55:00Z",
+  "phase": "wc26_round2_published",
   "count": 8,
-  "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
+  "news": 5,
+  "trend": 3,
+  "slugs": [
+    "brazil-1-1-morocco-world-cup-2026",
+    "usa-4-1-paraguay-world-cup-2026",
+    "qatar-1-1-switzerland-world-cup-2026",
+    "ronaldo-cleared-portugal-world-cup-2026-opener",
+    "netherlands-japan-world-cup-2026-preview",
+    "uzbekistan-colombia-world-cup-2026-debut",
+    "top-7-heroes-world-cup-2026-opening-days",
+    "spain-cape-verde-world-cup-2026-preview"
+  ],
+  "db_ids": [
+    "7f7ee89f-81ac-4ff4-b687-ac10b65e0931",
+    "afad9599-ba82-418a-ab61-fd6cf6ac510e",
+    "566d4d10-939e-43ef-81da-8cecb92c83c3",
+    "a3c4d16d-cc1d-4be6-8b35-6bed6c733c74",
+    "001e65e2-8190-4d9e-b545-78301ba013dd",
+    "36271ed1-8a83-4940-95e4-22b27ac29ef9",
+    "c61f0ee5-baf1-4cc1-b33e-d373a2b223fd",
+    "3d4b6495-b28f-4364-b15c-f4a2c3178a3d"
   ]
 }
