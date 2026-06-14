@@ -1,15 +1,31 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
-  "count": 8,
+  "run_id": "run-20260614-239ecd27",
+  "generated_at": "2026-06-14T16:17:26.976563+00:00",
+  "counts": {
+    "total": 8,
+    "news": 5,
+    "trend": 3,
+    "inserted": 8
+  },
+  "slugs": [
+    "usa-4-1-paraguay-world-cup-2026-balogun",
+    "belgium-egypt-world-cup-2026-preview-group-g",
+    "brazil-1-1-morocco-vinicius-world-cup-2026",
+    "fifa-technical-outage-qatar-switzerland-var-world-cup-2026",
+    "australia-2-0-turkiye-world-cup-2026-upset",
+    "uzbekistan-world-cup-2026-debut-colombia-preview",
+    "top-7-heroes-opening-round-world-cup-2026",
+    "argentina-algeria-world-cup-2026-preview-messi"
+  ],
   "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
-  ]
+    "usa-4-1-paraguay-world-cup-2026-balogun",
+    "belgium-egypt-world-cup-2026-preview-group-g",
+    "brazil-1-1-morocco-vinicius-world-cup-2026",
+    "fifa-technical-outage-qatar-switzerland-var-world-cup-2026",
+    "australia-2-0-turkiye-world-cup-2026-upset",
+    "uzbekistan-world-cup-2026-debut-colombia-preview",
+    "top-7-heroes-opening-round-world-cup-2026",
+    "argentina-algeria-world-cup-2026-preview-messi-2"
+  ],
+  "notes": "All 8 inserted. argentina-algeria-...-messi collided with a pre-existing DB slug and was stored as -messi-2 (dedup miss vs production DB not reflected in local log)."
 }
