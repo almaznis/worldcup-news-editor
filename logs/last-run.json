@@ -1,15 +1,30 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
-  "count": 8,
-  "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
-  ]
+  "run_id": "run-20260615-d362737b",
+  "generated_at": "2026-06-15T00:24:31.917487+00:00",
+  "phase": "published_v4_groupstage",
+  "counts": {
+    "total": 8,
+    "news": 5,
+    "trend": 3
+  },
+  "slugs": [
+    "germany-7-1-curacao-world-cup-2026-group-e",
+    "spain-cape-verde-preview-world-cup-2026-group-h",
+    "netherlands-2-2-japan-world-cup-2026-group-f",
+    "belgium-egypt-preview-world-cup-2026-group-g",
+    "australia-2-0-turkiye-world-cup-2026-group-d",
+    "uzbekistan-colombia-preview-world-cup-2026-group-k",
+    "top-7-sobytiy-startovoy-nedeli-chm-2026",
+    "portugal-dr-congo-preview-ronaldo-world-cup-2026-group-k"
+  ],
+  "db_ids": {
+    "germany-7-1-curacao-world-cup-2026-group-e": "1e344bca-25d6-42d8-807f-35794420bbe8",
+    "spain-cape-verde-preview-world-cup-2026-group-h": "9e2b5bf1-ec78-43fa-a18f-d260b11c8ca0",
+    "netherlands-2-2-japan-world-cup-2026-group-f": "b56804d7-3928-42aa-9718-fd0c36e1b22f",
+    "belgium-egypt-preview-world-cup-2026-group-g": "ef915792-0dfc-4617-96bf-ebebe357e103",
+    "australia-2-0-turkiye-world-cup-2026-group-d": "d0aef5c7-50b0-4aff-8416-94a2230126a4",
+    "uzbekistan-colombia-preview-world-cup-2026-group-k": "0b4e5195-71ac-4d83-9240-3b7b75dafb75",
+    "top-7-sobytiy-startovoy-nedeli-chm-2026": "a7c5141a-9490-4533-93ce-c922cfbf7d13",
+    "portugal-dr-congo-preview-ronaldo-world-cup-2026-group-k": "f126c1a8-2a16-4617-872b-e5359e05f43b"
+  }
 }

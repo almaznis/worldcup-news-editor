@@ -1,0 +1,65 @@
+{
+  "germany_curacao": {
+    "title": "Kai Havertz",
+    "file": "File:1_kai_havertz_2026_(cropped).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:1_kai_havertz_2026_(cropped).jpg",
+    "lic": "CC BY-SA 4.0",
+    "bytes": 168905,
+    "quality": 85,
+    "src_ar": 0.753
+  },
+  "australia_turkiye": {
+    "title": "Arda Güler",
+    "file": "File:Derbide_Fenerbahçe_Yedek_Oyuncu_Arda_Güler_(2021-22_Süper_Lig_-_Cropped).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Derbide_Fenerbah%C3%A7e_Yedek_Oyuncu_Arda_G%C3%BCler_(2021-22_S%C3%BCper_Lig_-_Cropped).jpg",
+    "lic": "CC BY 3.0",
+    "bytes": 84146,
+    "quality": 85,
+    "src_ar": 0.575
+  },
+  "spain_capeverde": {
+    "title": "Lamine Yamal",
+    "file": "File:Lamine_Yamal_in_2025.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Lamine_Yamal_in_2025.jpg",
+    "lic": "CC BY 4.0",
+    "bytes": 129121,
+    "quality": 85,
+    "src_ar": 0.655
+  },
+  "belgium_egypt": {
+    "title": "Mohamed Salah",
+    "file": "File:Mohamed_Salah_2018.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Mohamed_Salah_2018.jpg",
+    "lic": "CC BY-SA 3.0",
+    "bytes": 133565,
+    "quality": 85,
+    "src_ar": 0.667
+  },
+  "uzbekistan_colombia": {
+    "title": "Eldor Shomurodov",
+    "file": "File:Eldor_Shomurodov_14_İstanbul_Başakşehir_FK_20250731_(10)_(cropped).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Eldor_Shomurodov_14_%C4%B0stanbul_Ba%C5%9Fak%C5%9Fehir_FK_20250731_(10)_(cropped).jpg",
+    "lic": "CC BY 4.0",
+    "bytes": 124281,
+    "quality": 85,
+    "src_ar": 0.751
+  },
+  "portugal_drcongo": {
+    "title": "Cristiano Ronaldo",
+    "file": "File:President_Donald_Trump_meets_with_Cristiano_Ronaldo_in_the_Oval_Office_(54933344262)_(cropped_and_rotated).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:President_Donald_Trump_meets_with_Cristiano_Ronaldo_in_the_Oval_Office_(54933344262)_(cropped_and_rotated).jpg",
+    "lic": "Public domain",
+    "bytes": 104463,
+    "quality": 85,
+    "src_ar": 0.871
+  },
+  "ranking_top7": {
+    "title": "MetLife Stadium",
+    "file": "File:Metlife_stadium_(Aerial_view).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Metlife_stadium_(Aerial_view).jpg",
+    "lic": "CC BY 2.0",
+    "bytes": 303705,
+    "quality": 60,
+    "src_ar": 1.631
+  }
+}

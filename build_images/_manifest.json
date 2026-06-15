@@ -1,0 +1,114 @@
+{
+  "germany_curacao": {
+    "key": "germany_curacao",
+    "query": "Kai Havertz 2024",
+    "file": "File:2021 FIFA Club World Cup Final - 02.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:2021_FIFA_Club_World_Cup_Final_-_02.jpg",
+    "lic": "CC BY 4.0",
+    "bytes": 296713,
+    "quality": 75,
+    "dim": [
+      1600,
+      900
+    ],
+    "out": "/home/user/worldcup-news-editor/build_images/germany_curacao.jpg"
+  },
+  "netherlands_japan": {
+    "key": "netherlands_japan",
+    "query": "Virgil van Dijk 2023",
+    "file": "File:Liverpool vs. Chelsea, 14 August 2019 07.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Liverpool_vs._Chelsea,_14_August_2019_07.jpg",
+    "lic": "CC BY 4.0",
+    "bytes": 277296,
+    "quality": 80,
+    "dim": [
+      1600,
+      900
+    ],
+    "out": "/home/user/worldcup-news-editor/build_images/netherlands_japan.jpg"
+  },
+  "australia_turkiye": {
+    "key": "australia_turkiye",
+    "query": "Hakan Çalhanoğlu 2023",
+    "file": "File:Edison Ndreca Inter.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Edison_Ndreca_Inter.jpg",
+    "lic": "CC BY-SA 4.0",
+    "bytes": 284306,
+    "quality": 80,
+    "dim": [
+      1600,
+      900
+    ],
+    "out": "/home/user/worldcup-news-editor/build_images/australia_turkiye.jpg"
+  },
+  "spain_capeverde": {
+    "key": "spain_capeverde",
+    "query": "Pedri 2024",
+    "file": "File:2025 04 26 Final de la Copa del Rey - 54482387776 (cropped)1.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:2025_04_26_Final_de_la_Copa_del_Rey_-_54482387776_(cropped)1.jpg",
+    "lic": "CC BY-SA 2.0",
+    "bytes": 280104,
+    "quality": 80,
+    "dim": [
+      1600,
+      900
+    ],
+    "out": "/home/user/worldcup-news-editor/build_images/spain_capeverde.jpg"
+  },
+  "belgium_egypt": {
+    "key": "belgium_egypt",
+    "query": "Mohamed Salah 2024",
+    "file": "File:Liverpool vs. Chelsea, UEFA Super Cup 2019-08-14 12.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Liverpool_vs._Chelsea,_UEFA_Super_Cup_2019-08-14_12.jpg",
+    "lic": "CC BY 4.0",
+    "bytes": 230622,
+    "quality": 85,
+    "dim": [
+      1600,
+      900
+    ],
+    "out": "/home/user/worldcup-news-editor/build_images/belgium_egypt.jpg"
+  },
+  "uzbekistan_colombia": {
+    "key": "uzbekistan_colombia",
+    "query": "Eldor Shomurodov 2024",
+    "file": "File:Uzbekistan vs. Spain, 2024 Summer Olympic men's association football, 2024-07-24 (120).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Uzbekistan_vs._Spain,_2024_Summer_Olympic_men%27s_association_football,_2024-07-24_(120).jpg",
+    "lic": "CC BY-SA 4.0",
+    "bytes": 303575,
+    "quality": 70,
+    "dim": [
+      1600,
+      900
+    ],
+    "out": "/home/user/worldcup-news-editor/build_images/uzbekistan_colombia.jpg"
+  },
+  "ranking_top7": {
+    "key": "ranking_top7",
+    "query": "SoFi Stadium football",
+    "file": "File:Paul McCartney at Sofi Stadium.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Paul_McCartney_at_Sofi_Stadium.png",
+    "lic": "CC BY-SA 4.0",
+    "bytes": 111507,
+    "quality": 85,
+    "dim": [
+      1600,
+      900
+    ],
+    "out": "/home/user/worldcup-news-editor/build_images/ranking_top7.jpg"
+  },
+  "portugal_drcongo": {
+    "key": "portugal_drcongo",
+    "query": "Cristiano Ronaldo 2024",
+    "file": "File:Cristiano Ronaldo with Al Nassr, 19 September 2023 - 44.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_with_Al_Nassr,_19_September_2023_-_44.jpg",
+    "lic": "CC BY 4.0",
+    "bytes": 173463,
+    "quality": 85,
+    "dim": [
+      1600,
+      900
+    ],
+    "out": "/home/user/worldcup-news-editor/build_images/portugal_drcongo.jpg"
+  }
+}
