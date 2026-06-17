@@ -1,15 +1,25 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
-  "count": 8,
+  "run_id": "run-20260617-wc2026-md7",
+  "generated_at": "2026-06-17T16:18:02.308665+00:00",
+  "phase": "wc2026_md7_results_previews",
+  "counts": {
+    "total": 8,
+    "news": 5,
+    "trend": 3,
+    "inserted": 8
+  },
+  "slug_collisions": [
+    "england-croatia-world-cup-2026-preview-june-17-2",
+    "uzbekistan-colombia-world-cup-2026-debut-preview-5"
+  ],
   "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
+    "argentina-3-0-algeria-messi-hat-trick-world-cup-2026",
+    "england-croatia-world-cup-2026-preview-june-17-2",
+    "france-3-1-senegal-mbappe-record-world-cup-2026",
+    "england-livramento-injury-out-world-cup-2026",
+    "norway-4-1-iraq-haaland-brace-world-cup-2026",
+    "uzbekistan-colombia-world-cup-2026-debut-preview-5",
+    "top-7-records-first-week-world-cup-2026",
+    "portugal-dr-congo-ronaldo-last-dance-world-cup-2026"
   ]
 }
