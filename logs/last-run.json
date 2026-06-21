@@ -1,15 +1,34 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
+  "run_id": "run-20260621-wc2026-groupstage",
+  "generated_at": "2026-06-21T16:17:16.054007+00:00",
   "count": 8,
+  "news": 5,
+  "trend": 3,
+  "inserted": 8,
+  "slugs": [
+    "germany-2-1-ivory-coast-undav-world-cup-2026",
+    "curacao-eloy-room-15-saves-record-world-cup-2026",
+    "netherlands-5-1-sweden-world-cup-2026",
+    "spain-vs-saudi-arabia-preview-world-cup-2026",
+    "japan-4-0-tunisia-world-cup-2026",
+    "uzbekistan-vs-portugal-preview-world-cup-2026",
+    "top-7-scorers-golden-boot-world-cup-2026",
+    "top-5-sensations-group-stage-world-cup-2026"
+  ],
   "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
-  ]
+    "germany-2-1-ivory-coast-undav-world-cup-2026",
+    "curacao-eloy-room-15-saves-record-world-cup-2026",
+    "netherlands-5-1-sweden-world-cup-2026-2",
+    "spain-vs-saudi-arabia-preview-world-cup-2026",
+    "japan-4-0-tunisia-world-cup-2026",
+    "uzbekistan-vs-portugal-preview-world-cup-2026",
+    "top-7-scorers-golden-boot-world-cup-2026-3",
+    "top-5-sensations-group-stage-world-cup-2026-2"
+  ],
+  "duplicate_collisions": [
+    "netherlands-5-1-sweden-world-cup-2026-2",
+    "top-7-scorers-golden-boot-world-cup-2026-3",
+    "top-5-sensations-group-stage-world-cup-2026-2"
+  ],
+  "note": "All 8 inserted. 3 slugs collided (-2/-3) => those stories already existed in DB before this run; dedup history log did not persist across ephemeral runs."
 }
