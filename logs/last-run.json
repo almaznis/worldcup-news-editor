@@ -1,15 +1,28 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
+  "run_id": "run-20260621-c5b09b18",
+  "generated_at": "2026-06-21T08:27:14Z",
+  "phase": "wc2026_groupstage_round2",
   "count": 8,
+  "news": 5,
+  "trend": 3,
   "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
-  ]
+    "germany-2-1-cote-divoire-world-cup-2026-group-e",
+    "netherlands-5-1-sweden-world-cup-2026-group-f",
+    "raphinha-thigh-injury-brazil-world-cup-2026",
+    "curacao-eloy-room-saves-record-ecuador-world-cup-2026",
+    "spain-saudi-arabia-world-cup-2026-preview-yamal",
+    "top-7-scorers-world-cup-2026-golden-boot-race",
+    "uzbekistan-portugal-world-cup-2026-preview",
+    "argentina-austria-world-cup-2026-preview-messi"
+  ],
+  "ids": {
+    "germany-2-1-cote-divoire-world-cup-2026-group-e": "43aee209-d598-40d8-b19f-b30cc55f6658",
+    "netherlands-5-1-sweden-world-cup-2026-group-f": "8799932a-cc06-402a-a50d-2d6aa2deca9d",
+    "raphinha-thigh-injury-brazil-world-cup-2026": "b6a5b93a-c471-4a48-afdd-c4ca187129a3",
+    "curacao-eloy-room-saves-record-ecuador-world-cup-2026": "514292f3-a691-4e2b-943f-4c0f15c67f17",
+    "spain-saudi-arabia-world-cup-2026-preview-yamal": "f2e6d0dd-d7f1-432d-a181-96fa1d34859e",
+    "top-7-scorers-world-cup-2026-golden-boot-race": "b9bdebc8-1f69-46ab-b84a-6bcf722ccf65",
+    "uzbekistan-portugal-world-cup-2026-preview": "76bc6143-eddf-47aa-b440-990af058b523",
+    "argentina-austria-world-cup-2026-preview-messi": "1f4d3b94-0674-4e55-9b55-c9898ac02ba6"
+  }
 }
