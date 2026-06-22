@@ -1,15 +1,30 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
-  "count": 8,
+  "run_id": "run-20260622-wc2026-md2",
+  "generated_at": "2026-06-22T08:22:11.659247+00:00",
+  "counts": {
+    "total": 8,
+    "news": 5,
+    "trend": 3,
+    "inserted": 8
+  },
+  "slugs": [
+    "argentina-austria-world-cup-2026-preview-md2",
+    "spain-4-0-saudi-arabia-world-cup-2026",
+    "belgium-0-0-iran-ngoy-red-card-world-cup-2026",
+    "egypt-3-1-new-zealand-first-world-cup-win-2026",
+    "top-7-bombardirov-chm-2026-zolotaya-butsa",
+    "japan-4-0-tunisia-world-cup-2026-md2",
+    "portugal-uzbekistan-world-cup-2026-preview",
+    "top-7-sensaciy-gruppovogo-etapa-chm-2026"
+  ],
   "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
+    "argentina-austria-world-cup-2026-preview-md2",
+    "spain-4-0-saudi-arabia-world-cup-2026",
+    "belgium-0-0-iran-ngoy-red-card-world-cup-2026",
+    "egypt-3-1-new-zealand-first-world-cup-win-2026",
+    "top-7-bombardirov-chm-2026-zolotaya-butsa",
+    "japan-4-0-tunisia-world-cup-2026-md2",
+    "portugal-uzbekistan-world-cup-2026-preview",
+    "top-7-sensaciy-gruppovogo-etapa-chm-2026"
   ]
 }
