@@ -1,15 +1,28 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
+  "run_id": "run-20260622-wc2026-grp",
+  "generated_at": "2026-06-22T00:17:12.287636+00:00",
+  "phase": "wc2026_group_stage",
   "count": 8,
+  "news": 5,
+  "trend": 3,
+  "slugs": [
+    "spain-4-0-saudi-arabia-yamal-oyarzabal-world-cup-2026",
+    "japan-4-0-tunisia-1000th-world-cup-match-ueda",
+    "germany-2-1-ivory-coast-undav-world-cup-2026",
+    "curacao-0-0-ecuador-room-first-world-cup-point-2026",
+    "cabo-verde-first-world-cup-goal-lenini-krasnodar-uruguay-2026",
+    "portugal-uzbekistan-preview-world-cup-2026",
+    "top-7-golden-boot-race-world-cup-2026",
+    "top-7-sensations-group-stage-world-cup-2026"
+  ],
   "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
+    "spain-4-0-saudi-arabia-yamal-oyarzabal-world-cup-2026",
+    "japan-4-0-tunisia-1000th-world-cup-match-ueda",
+    "germany-2-1-ivory-coast-undav-world-cup-2026-2",
+    "curacao-0-0-ecuador-room-first-world-cup-point-2026",
+    "cabo-verde-first-world-cup-goal-lenini-krasnodar-uruguay-2026",
+    "portugal-uzbekistan-preview-world-cup-2026",
+    "top-7-golden-boot-race-world-cup-2026",
+    "top-7-sensations-group-stage-world-cup-2026-2"
   ]
 }
