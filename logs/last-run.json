@@ -1,15 +1,23 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
+  "run_id": "run-20260622-wc-groupstage",
+  "generated_at": "2026-06-22T16:23:57.117103+00:00",
   "count": 8,
+  "news": 5,
+  "trend": 3,
+  "http_status": 200,
   "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
-  ]
+    "egypt-3-1-new-zealand-salah-world-cup-2026",
+    "argentina-austria-preview-world-cup-2026",
+    "netherlands-5-1-sweden-world-cup-2026-3",
+    "france-iraq-preview-mbappe-world-cup-2026",
+    "germany-2-1-ivory-coast-undav-world-cup-2026-3",
+    "top-7-scorers-world-cup-2026",
+    "messi-equals-klose-record-world-cup-2026",
+    "cape-verde-uruguay-pina-krasnodar-world-cup-2026"
+  ],
+  "duplicate_collisions": [
+    "netherlands-5-1-sweden-world-cup-2026-3",
+    "germany-2-1-ivory-coast-undav-world-cup-2026-3"
+  ],
+  "note": "2 slugs returned -3 suffix => base+-2 already in DB. Local history log only had the 2026-06-07 run, so an intermediate run (likely ~June 20 matches) published without persisting its log (ephemeral container). Dedup across runs is unreliable until logs are committed."
 }
