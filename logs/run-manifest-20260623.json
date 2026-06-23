@@ -1,0 +1,140 @@
+{
+  "generated_at": "2026-06-23T00:32:45.927258+00:00",
+  "run_id": "run-20260623-b79e2947",
+  "articles": [
+    {
+      "title": "Аргентина – Австрия 2:0: Месси стал лучшим бомбардиром в истории чемпионатов мира",
+      "slug": "argentina-austria-messi-world-cup-record-2026",
+      "excerpt": "Лионель Месси оформил дубль в Арлингтоне, довёл число своих голов на чемпионатах мира до 18 и побил рекорд Мирослава Клозе. Аргентина обыграла Австрию 2:0 и вышла в плей-офф ЧМ-2026.",
+      "category": "Отчёты о матчах",
+      "type": "match_report",
+      "image_url": null,
+      "sources": [
+        "https://www.espn.com/soccer/story/_/id/49144198/argentina-austria-live-world-cup-2026-latest-updates-commentary-score-result",
+        "https://www.cbssports.com/soccer/news/argentina-austria-live-updates-world-cup-2026-score-result/live/",
+        "https://www.nbcnews.com/sports/soccer/lionel-messi-breaks-record-career-goals-scored-world-cup-rcna351168",
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021494"
+      ],
+      "source_type": "news",
+      "db_slug": "argentina-austria-messi-world-cup-record-2026",
+      "status": "inserted"
+    },
+    {
+      "title": "Рафинья травмировал бедро: Бразилия надеется вернуть форварда к плей-офф ЧМ-2026",
+      "slug": "raphinha-hamstring-injury-brazil-world-cup-2026",
+      "excerpt": "У Рафиньи диагностировано повреждение задней поверхности бедра. Бразильская конфедерация футбола не списала форварда с турнира, но сроки возвращения остаются под вопросом.",
+      "category": "Новости игроков",
+      "type": "transfer",
+      "image_url": null,
+      "sources": [
+        "https://www.espn.com/soccer/story/_/id/49129032/brazil-confirm-raphinha-hamstring-injury-world-cup-2026-return-uncertain-group-c",
+        "https://www.si.com/soccer/raphinha-injury-uncertainty-distress-over-brazilian-star-world-cup-status",
+        "https://www.washingtonpost.com/sports/soccer/2026/06/20/raphinha-injury-brazil-world-cup/e859f4bc-6ce8-11f1-830e-133d20cadd28_story.html",
+        "https://heavy.com/sports/soccer/world-cup/raphinha-injury-update-brazil-knockout-hopes/"
+      ],
+      "source_type": "news",
+      "db_slug": "raphinha-hamstring-injury-brazil-world-cup-2026",
+      "status": "inserted"
+    },
+    {
+      "title": "Мбаппе забил в 100-м матче за Францию, но игру с Ираком прервала гроза в Филадельфии",
+      "slug": "mbappe-100-caps-france-iraq-storm-world-cup-2026",
+      "excerpt": "Килиан Мбаппе отметил юбилейный, сотый матч за сборную Франции голом в ворота Ирака. Встречу группы I прервала гроза – это первый матч ЧМ-2026, остановленный из-за погоды.",
+      "category": "ЧМ-2026",
+      "type": "transfer",
+      "image_url": null,
+      "sources": [
+        "https://www.cbssports.com/soccer/news/france-vs-iraq-weather-delay-world-cup-2026/",
+        "https://www.espn.com/soccer/story/_/id/49141065/world-cup-daily-crying-belgium-fan-saved-var-messi-mbappe-haaland-action",
+        "https://www.outlookindia.com/sports/football/france-vs-iraq-live-score-fifa-world-cup-2026-group-i-fra-v-irq-updates-philadelphia-stadium-highlights",
+        "https://www.nbcnews.com/sports/soccer/live-blog/fifa-world-cup-games-2026-june-22-live-updates-rcna351129"
+      ],
+      "source_type": "news",
+      "db_slug": "mbappe-100-caps-france-iraq-storm-world-cup-2026",
+      "status": "inserted"
+    },
+    {
+      "title": "Англия – Гана (23 июня): Кейн в одном голе от рекорда Линекера",
+      "slug": "england-ghana-preview-kane-record-world-cup-2026",
+      "excerpt": "В матче группы L Англия сыграет с Ганой. Гарри Кейну достаточно одного гола, чтобы обойти Гари Линекера и стать лучшим бомбардиром сборной Англии в истории чемпионатов мира.",
+      "category": "Сборные",
+      "type": "preview",
+      "image_url": null,
+      "sources": [
+        "https://theanalyst.com/articles/england-vs-ghana-prediction-world-cup-2026-match-preview",
+        "https://www.englandfootball.com/england/mens-senior-team/fixtures-results/2025-26/World-Cup/england-v-ghana-fifa-world-cup-tuesday-23-june-2026-match-centre",
+        "https://www.sportsmole.co.uk/football/england/world-cup-2026/preview/england-vs-ghana-prediction-team-news-lineups_599721.html"
+      ],
+      "source_type": "news",
+      "db_slug": "england-ghana-preview-kane-record-world-cup-2026",
+      "status": "inserted"
+    },
+    {
+      "title": "Иордания – Алжир: матч на выживание в группе J ЧМ-2026",
+      "slug": "jordan-algeria-preview-world-cup-2026",
+      "excerpt": "После поражений в стартовом туре Иордания и Алжир проведут очный матч группы J, в котором проигравший почти наверняка лишится шансов на плей-офф чемпионата мира.",
+      "category": "Сборные",
+      "type": "preview",
+      "image_url": null,
+      "sources": [
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/jordan-algeria-feature",
+        "https://www.espn.com/soccer/story/_/id/49124571/jordan-vs-algeria-fifa-world-cup-2026-tv-channel-how-watch-kick-live-stream-injury-predicted-line-ups",
+        "https://www.goal.com/en/news/jordan-algeria-world-cup-preview/bltddae6909cf8922c4"
+      ],
+      "source_type": "news",
+      "db_slug": "jordan-algeria-preview-world-cup-2026",
+      "status": "inserted"
+    },
+    {
+      "title": "Португалия – Узбекистан: дебютант Центральной Азии бросает вызов фавориту на ЧМ-2026",
+      "slug": "portugal-uzbekistan-preview-world-cup-2026",
+      "excerpt": "23 июня в Хьюстоне сборная Узбекистана, первый дебютант ЧМ из Центральной Азии, сыграет с Португалией. Для болельщиков СНГ это один из самых ожидаемых матчей турнира.",
+      "category": "Сборные",
+      "type": "preview",
+      "image_url": null,
+      "sources": [
+        "https://theanalyst.com/articles/portugal-vs-uzbekistan-prediction-world-cup-2026-match-preview",
+        "https://www.skysports.com/football/news/12040/13543106/world-cup-2026-group-k-guide-fixtures-schedule-standings-and-odds-for-portugal-dr-congo-uzbekistan-and-colombia",
+        "https://sports.yahoo.com/articles/portugal-vs-uzbekistan-picks-predictions-090406819.html",
+        "https://www.goal.com/en/news/portugal-uzbekistan-world-cup-preview/bltf65b8be15166aad7"
+      ],
+      "source_type": "trend",
+      "db_slug": null,
+      "status": null
+    },
+    {
+      "title": "Топ-7 историй и сенсаций группового этапа ЧМ-2026",
+      "slug": "top-7-world-cup-2026-group-stage-stories",
+      "excerpt": "Кюрасао и Кабо-Верде творят историю, Иран сдержал Бельгию, а Норвегия вернулась спустя 28 лет. Собрали семь главных историй стартового отрезка чемпионата мира 2026 года.",
+      "category": "Тренды",
+      "type": "ranking",
+      "image_url": null,
+      "sources": [
+        "https://www.espn.com/soccer/story/_/id/49132616/world-cup-2026-today-blog-21-06-2026-live-updates-news-fixtures-schedule-results-curacao-make-history-germany-ivory-coast",
+        "https://www.aljazeera.com/sports/2026/6/21/iran-belgium-wc-mehdi-taremi-score-los-angeles-draw",
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/debutants-cabo-verde-curacao-jordan-uzbekistan",
+        "https://www.espn.com/soccer/story/_/id/48322228/meet-2026-world-cup-debutants-cape-verde-curacao-jordan-uzbekistan"
+      ],
+      "source_type": "trend",
+      "db_slug": "top-7-world-cup-2026-group-stage-stories",
+      "status": "inserted"
+    },
+    {
+      "title": "Топ-7 бомбардиров в истории чемпионатов мира: Месси возглавил вечный список",
+      "slug": "top-7-all-time-world-cup-goalscorers-messi",
+      "excerpt": "Лионель Месси с 18 голами стал лучшим бомбардиром в истории чемпионатов мира. Вспоминаем семёрку лучших снайперов мундиалей – от Месси и Клозе до Пеле.",
+      "category": "Тренды",
+      "type": "ranking",
+      "image_url": null,
+      "sources": [
+        "https://sports.yahoo.com/articles/most-goals-in-world-cup-history-where-messi-mbappe-rank-among-fifas-top-scorers-all-time-214600114.html",
+        "https://www.foxsports.com/stories/soccer/most-world-cup-goals-all-time-messi-mbappe",
+        "https://www.olympics.com/en/news/fifa-world-cup-messi-mbappe-goal-record-klose-football",
+        "https://en.wikipedia.org/wiki/List_of_FIFA_World_Cup_top_goalscorers"
+      ],
+      "source_type": "trend",
+      "db_slug": "top-7-all-time-world-cup-goalscorers-messi",
+      "status": "inserted"
+    }
+  ]
+}

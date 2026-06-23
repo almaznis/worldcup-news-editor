@@ -1,15 +1,27 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
+  "run_id": "run-20260623-b79e2947",
+  "generated_at": "2026-06-23T00:32:45.927258+00:00",
   "count": 8,
+  "inserted": 8,
+  "slugs": [
+    "argentina-austria-messi-world-cup-record-2026",
+    "raphinha-hamstring-injury-brazil-world-cup-2026",
+    "mbappe-100-caps-france-iraq-storm-world-cup-2026",
+    "england-ghana-preview-kane-record-world-cup-2026",
+    "jordan-algeria-preview-world-cup-2026",
+    "portugal-uzbekistan-preview-world-cup-2026",
+    "top-7-world-cup-2026-group-stage-stories",
+    "top-7-all-time-world-cup-goalscorers-messi"
+  ],
   "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
-  ]
+    "argentina-austria-messi-world-cup-record-2026",
+    "raphinha-hamstring-injury-brazil-world-cup-2026",
+    "mbappe-100-caps-france-iraq-storm-world-cup-2026",
+    "england-ghana-preview-kane-record-world-cup-2026",
+    "jordan-algeria-preview-world-cup-2026",
+    "portugal-uzbekistan-preview-world-cup-2026-2",
+    "top-7-world-cup-2026-group-stage-stories",
+    "top-7-all-time-world-cup-goalscorers-messi"
+  ],
+  "notes": "Все 8 статей вставлены. portugal-uzbekistan вставлена как -2: слаг уже существовал в БД портала, но отсутствовал в локальном логе articles-history.jsonl -> дедупликация не сработала (лог рассинхронизирован с БД)."
 }
