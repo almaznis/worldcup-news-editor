@@ -1,15 +1,30 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
+  "run_id": "run-20260624-wc2026-day14",
+  "generated_at": "2026-06-24T17:30:00+05:00",
+  "phase": "wc2026_group_stage_day14",
   "count": 8,
+  "counts": {
+    "news": 5,
+    "trend": 3
+  },
   "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
+    "portugal-5-0-uzbekistan-ronaldo-six-world-cups",
+    "neymar-brazil-debut-vs-scotland-world-cup-2026",
+    "croatia-1-0-panama-modric-200-caps-world-cup-2026",
+    "scotland-brazil-preview-group-c-world-cup-2026",
+    "germany-schlotterbeck-out-world-cup-2026-ankle",
+    "messi-all-time-world-cup-top-scorer-argentina-austria",
+    "top-7-scorers-world-cup-2026-before-knockouts",
+    "norway-france-preview-haaland-mbappe-world-cup-2026"
+  ],
+  "db_ids": [
+    "435fd863-a4c8-41bf-ad40-1ee60e45d8d9",
+    "1420c2a1-c157-47bb-a550-4c6f10884851",
+    "1f0c0f75-4747-4be8-af82-b9a8b2fc86c5",
+    "08423bbf-c70c-4239-b785-bfd7dc96e683",
+    "8ad5d101-5b4d-48f8-aa34-0202cbb8d059",
+    "9c000bf2-7021-42b2-b605-941ef92d3813",
+    "31d8e127-f857-4c46-a718-eb1ca66b27d9",
+    "e6fae9f3-d61c-4615-bd42-30f0087590b3"
   ]
 }
