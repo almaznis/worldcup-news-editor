@@ -1,15 +1,18 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
+  "run_id": "run-20260625-wc-knockout-eve",
+  "generated_at": "2026-06-25T09:30:00Z",
+  "phase": "wc2026_group_finale",
   "count": 8,
+  "news": 5,
+  "trend": 3,
   "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
+    "brazil-3-0-scotland-world-cup-2026-group-c",
+    "ronaldo-records-portugal-5-0-uzbekistan-world-cup-2026",
+    "ecuador-germany-world-cup-2026-group-e-preview",
+    "world-cup-2026-round-of-32-qualified-teams-june-24",
+    "mbappe-100-caps-france-16-world-cup-goals-2026",
+    "world-cup-2026-golden-boot-top-scorers-ranking",
+    "uzbekistan-dr-congo-world-cup-2026-debut-final-group",
+    "norway-3-2-senegal-haaland-world-cup-2026-knockouts"
   ]
 }
