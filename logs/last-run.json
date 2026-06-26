@@ -1,15 +1,27 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
+  "run_id": "run-20260626-wc2026-day15-v1",
+  "generated_at": "2026-06-26T00:32:08+00:00",
+  "phase": "wc2026_group_finale_day15",
   "count": 8,
+  "counts": {
+    "news": 5,
+    "trend": 3,
+    "types": {
+      "match_report": 3,
+      "preview": 3,
+      "transfer": 1,
+      "ranking": 1
+    }
+  },
   "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
-  ]
+    "ecuador-vs-germany-2-1-world-cup-2026-group-e-3",
+    "netherlands-vs-tunisia-world-cup-2026-group-f-3",
+    "uruguay-vs-spain-world-cup-2026-group-h-finale-guadalajara-3",
+    "norway-vs-france-world-cup-2026-group-i-haaland-mbappe-3",
+    "japan-vs-sweden-world-cup-2026-group-f-3",
+    "dastan-satpaev-chelsea-vylet-london-iyun-2026",
+    "dr-congo-vs-uzbekistan-world-cup-2026-group-k-preview",
+    "top-7-world-cup-all-time-scorers-messi-2026-record"
+  ],
+  "notes": "All 8 inserted. NOTE: the 5 news stories returned -3 suffixes because two earlier batch POSTs returned HTTP 546 yet still inserted those 5 rows each before timing out; this created 2 duplicate copies per news story (base + -2) plus one truncated probe row (ecuador-...-group-e-probe). No delete endpoint is available to remove them; manual cleanup of duplicates is required."
 }
