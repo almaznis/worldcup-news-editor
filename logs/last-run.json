@@ -1,15 +1,30 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
-  "count": 8,
+  "run_id": "run-20260626-wc26-knockout",
+  "generated_at": "2026-06-26T08:31:40Z",
+  "phase": "wc26_knockout_publish",
+  "counts": {
+    "total": 8,
+    "news": 5,
+    "trend": 3,
+    "inserted": 8
+  },
   "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
+    "turkey-3-2-usa-world-cup-2026-group-d-2",
+    "netherlands-3-1-tunisia-world-cup-2026-2",
+    "france-vs-norway-world-cup-2026-group-i-preview-2",
+    "brazil-3-0-scotland-world-cup-2026-2",
+    "top-7-scorers-world-cup-2026-3",
+    "uruguay-vs-spain-world-cup-2026-group-h-preview",
+    "switzerland-2-1-canada-world-cup-2026",
+    "top-7-sensations-world-cup-2026-group-stage"
+  ],
+  "incident": "First batch POST returned HTTP 546 WORKER_RESOURCE_LIMIT (8 base64 images too large for one request); partial commit created duplicate base-slug rows for the first 5 stories. Re-sent one-per-request (all 8 inserted with images). Duplicate base rows need manual cleanup in Supabase.",
+  "duplicate_base_slugs_to_review": [
+    "turkey-3-2-usa-world-cup-2026-group-d",
+    "netherlands-3-1-tunisia-world-cup-2026",
+    "france-vs-norway-world-cup-2026-group-i-preview",
+    "brazil-3-0-scotland-world-cup-2026",
+    "top-7-scorers-world-cup-2026",
+    "top-7-scorers-world-cup-2026-2"
   ]
 }
