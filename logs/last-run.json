@@ -1,15 +1,29 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
+  "run_id": "run-20260627-878d5053",
+  "generated_at": "2026-06-27T11:30:00+05:00",
+  "phase": "wc2026_group_stage_md3_news_trends",
   "count": 8,
+  "news_count": 5,
+  "trend_count": 3,
   "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
-  ]
+    "norway-1-4-france-dembele-hat-trick-wc2026-2",
+    "chm-2026-rekord-poseshchaemosti-1994-2",
+    "dr-kongo-uzbekistan-chm-2026-preview-2",
+    "urugvay-0-1-ispaniya-chm-2026-2",
+    "kabo-verde-pley-off-chm-2026-rekord-2",
+    "argentina-iordaniya-chm-2026-messi-preview-2",
+    "senegal-5-0-irak-chm-2026-2",
+    "top-7-sensaciy-gruppovogo-etapa-chm-2026-2"
+  ],
+  "requested_slugs": [
+    "norway-1-4-france-dembele-hat-trick-wc2026",
+    "chm-2026-rekord-poseshchaemosti-1994",
+    "dr-kongo-uzbekistan-chm-2026-preview",
+    "urugvay-0-1-ispaniya-chm-2026",
+    "kabo-verde-pley-off-chm-2026-rekord",
+    "argentina-iordaniya-chm-2026-messi-preview",
+    "senegal-5-0-irak-chm-2026",
+    "top-7-sensaciy-gruppovogo-etapa-chm-2026"
+  ],
+  "publish_note": "All 8 inserted with images. NOTE: the initial single-batch POST hit WORKER_RESOURCE_LIMIT and inserted 8 base-slug rows before crashing; the per-article retry then inserted 8 '-2' rows. Result: duplicate pairs in public.articles. Manual cleanup needed (delete one copy of each; the '-2' rows are confirmed to carry working cover images). No DB delete access from agent."
 }
