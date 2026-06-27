@@ -1,15 +1,22 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
-  "count": 8,
+  "run_id": "run-20260627-wc2026-md1",
+  "generated_at": "2026-06-27T00:25:00Z",
+  "phase": "wc2026_groupstage_finale_md",
+  "counts": {
+    "total": 8,
+    "news": 5,
+    "trend": 3,
+    "inserted": 8
+  },
   "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
-  ]
+    "france-4-1-norway-dembele-hat-trick-wc2026",
+    "top-7-sensations-world-cup-2026-group-stage-2",
+    "turkey-3-2-usa-wc2026-group-d",
+    "brazil-vs-japan-round-of-32-wc2026-preview",
+    "ivory-coast-2-0-curacao-wc2026",
+    "golden-boot-race-wc2026-messi-leads",
+    "senegal-5-0-iraq-wc2026",
+    "dr-congo-vs-uzbekistan-wc2026-preview"
+  ],
+  "notes": "slug 'top-7-sensations-world-cup-2026-group-stage' collided in DB -> stored as ...-2"
 }
