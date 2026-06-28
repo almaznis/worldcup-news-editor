@@ -1,15 +1,32 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
+  "run_id": "run-20260628-knockouts-r32",
+  "generated_at": "2026-06-28T07:30:00Z",
+  "phase": "r32_knockouts_news_trends",
   "count": 8,
-  "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
-  ]
+  "news": 5,
+  "trend": 3,
+  "returned_slugs": [
+    "spain-1-0-uruguay-baena-world-cup-2026-group-h-2",
+    "van-hecke-tottenham-brighton-transfer-june-2026-2",
+    "argentina-3-1-jordan-messi-world-cup-2026-group-j-2",
+    "world-cup-2026-round-of-32-knockouts-begin-june-28-2",
+    "england-2-0-panama-kane-record-world-cup-2026-group-l-2",
+    "top-7-title-favourites-world-cup-2026-knockouts-2",
+    "dr-congo-3-1-uzbekistan-world-cup-2026-debut-ends",
+    "portugal-vs-croatia-round-of-32-preview-world-cup-2026"
+  ],
+  "incident": {
+    "type": "partial_batch_insert_duplicates",
+    "detail": "First batch POST returned HTTP 546 WORKER_RESOURCE_LIMIT after inserting the first 6 articles. The one-by-one retry then re-inserted those 6, which the endpoint stored with a -2 suffix (duplicates). 2 articles (dr-congo, portugal) inserted once and are clean.",
+    "duplicated_stories": [
+      "spain-1-0-uruguay-baena-world-cup-2026-group-h-2",
+      "van-hecke-tottenham-brighton-transfer-june-2026-2",
+      "argentina-3-1-jordan-messi-world-cup-2026-group-j-2",
+      "world-cup-2026-round-of-32-knockouts-begin-june-28-2",
+      "england-2-0-panama-kane-record-world-cup-2026-group-l-2",
+      "top-7-title-favourites-world-cup-2026-knockouts-2"
+    ],
+    "manual_cleanup_needed": "Delete one copy of each of the 6 duplicated stories from public.articles (e.g. remove the 6 '-2' rows, or the 6 base-slug rows). No delete endpoint is available to the agent.",
+    "prevention": "Publish one article per request (publish_run.py), never batch, to avoid partial-insert duplicates."
+  }
 }
