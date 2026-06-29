@@ -10,8 +10,9 @@ Usage: python3 publish_run.py <payload.json>
 Each article object may carry "image_base64" and "log_meta" (topic/teams/players);
 both are stripped from what we send/store appropriately.
 """
-import base64, json, os, sys, time, urllib.request, urllib.error
+import base64, io, json, os, sys, time, urllib.request, urllib.error
 from datetime import datetime, timezone
+from PIL import Image
 
 ENDPOINT = "https://jcezmolckegxlvizvmtj.supabase.co/functions/v1/publish-articles"
 SECRET   = os.environ["AGENT_PUBLISH_SECRET"]
@@ -20,12 +21,26 @@ LAST_RUN = "/home/user/worldcup-news-editor/logs/last-run.json"
 
 
 def download_base64(url: str) -> str | None:
+    """Download, optimize (resize longest side to 1600px, JPEG q82, strip EXIF),
+    and return base64. Returns None on failure."""
     try:
         req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (WorldCupNewsAgent)"})
-        with urllib.request.urlopen(req, timeout=40) as r:
-            data = r.read()
-        enc = base64.b64encode(data).decode("ascii")
-        print(f"  img ok {url.split('/')[-1][:50]} ({len(data)//1024} KB)")
+        with urllib.request.urlopen(req, timeout=60) as r:
+            raw = r.read()
+        im = Image.open(io.BytesIO(raw)); im.load()
+        w, h = im.size
+        if h >= w:
+            print(f"  img WARN not landscape ({w}x{h}) {url.split('/')[-1][:40]}")
+        im = im.convert("RGB")
+        longest = max(w, h)
+        if longest > 1600:
+            s = 1600 / longest
+            im = im.resize((int(w * s), int(h * s)))
+        buf = io.BytesIO()
+        im.save(buf, "JPEG", quality=82, optimize=True)  # no exif → metadata stripped
+        out = buf.getvalue()
+        enc = base64.b64encode(out).decode("ascii")
+        print(f"  img ok {url.split('/')[-1][:44]} ({len(raw)//1024}->{len(out)//1024} KB)")
         return enc
     except Exception as exc:
         print(f"  img FAIL {url}: {exc}")
