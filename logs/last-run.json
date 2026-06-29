@@ -1,15 +1,20 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
+  "run_id": "run-20260629-wc-r32",
+  "generated_at": "2026-06-29T09:30:00+00:00",
+  "phase": "wc2026_r32_ru",
   "count": 8,
+  "counts": {
+    "news": 5,
+    "trend": 3
+  },
   "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
+    "canada-1-0-south-africa-world-cup-2026-round-of-32",
+    "world-cup-2026-top-scorers-golden-boot-group-stage",
+    "brazil-vs-japan-world-cup-2026-round-of-32-preview",
+    "world-cup-2026-group-stage-biggest-upsets",
+    "netherlands-vs-morocco-world-cup-2026-round-of-32-preview",
+    "lewandowski-chicago-fire-transfer-2026",
+    "germany-vs-paraguay-world-cup-2026-round-of-32-preview",
+    "uzbekistan-world-cup-2026-debut-group-stage"
   ]
 }
