@@ -1,15 +1,31 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
-  "count": 8,
+  "run_id": "run-20260629-rd32-083044",
+  "generated_at": "2026-06-29T08:30:44.955369+00:00",
+  "counts": {
+    "total": 8,
+    "news": 5,
+    "trend": 3,
+    "inserted": 8
+  },
+  "slugs": [
+    "canada-1-0-south-africa-world-cup-2026-round-of-32",
+    "brazil-japan-world-cup-2026-round-of-32-preview",
+    "top-7-scorers-world-cup-2026-golden-boot",
+    "germany-paraguay-world-cup-2026-round-of-32-preview",
+    "messi-all-time-top-scorer-world-cup-history-2026",
+    "netherlands-morocco-world-cup-2026-round-of-32-preview",
+    "top-7-shocks-world-cup-2026-group-stage",
+    "france-sweden-world-cup-2026-round-of-32-preview"
+  ],
   "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
-  ]
+    "canada-1-0-south-africa-world-cup-2026-round-of-32-2",
+    "brazil-japan-world-cup-2026-round-of-32-preview",
+    "top-7-scorers-world-cup-2026-golden-boot",
+    "germany-paraguay-world-cup-2026-round-of-32-preview",
+    "messi-all-time-top-scorer-world-cup-history-2026",
+    "netherlands-morocco-world-cup-2026-round-of-32-preview",
+    "top-7-shocks-world-cup-2026-group-stage",
+    "france-sweden-world-cup-2026-round-of-32-preview"
+  ],
+  "notes": "Round-of-32 matchday slate. Canada match report collided with existing DB slug (-2) -> possible out-of-band duplicate; not recorded in local history log prior to this run."
 }
