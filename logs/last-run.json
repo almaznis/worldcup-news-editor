@@ -1,15 +1,18 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
+  "run_id": "run-20260630-163153-3b5877e4",
+  "generated_at": "2026-06-30T16:31:53.626032+00:00",
+  "phase": "knockout_r32_2026-06-30",
   "count": 8,
+  "news": 5,
+  "trend": 3,
   "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
+    "paraguay-germany-1-16-penalties-world-cup-2026",
+    "nagelsmann-future-germany-world-cup-2026-exit",
+    "brazil-japan-2-1-martinelli-world-cup-2026",
+    "france-sweden-preview-world-cup-2026-round-of-32",
+    "netherlands-morocco-penalties-world-cup-2026-2",
+    "norway-ivory-coast-haaland-preview-world-cup-2026",
+    "top-7-sensations-world-cup-2026",
+    "mexico-ecuador-preview-azteca-world-cup-2026"
   ]
 }
