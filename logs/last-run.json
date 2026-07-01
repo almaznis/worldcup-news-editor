@@ -1,15 +1,20 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
+  "run_id": "run-20260701-wc-r32-8573bf",
+  "generated_at": "2026-07-01T08:25:15Z",
+  "phase": "wc2026_round_of_32_live",
   "count": 8,
+  "news_count": 5,
+  "trend_count": 3,
+  "inserted": 8,
   "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
-  ]
+    "france-3-0-sweden-mbappe-world-cup-2026",
+    "germany-netherlands-eliminated-penalties-world-cup-2026",
+    "brazil-2-1-japan-martinelli-world-cup-2026-2",
+    "belgium-senegal-preview-world-cup-2026",
+    "norway-2-1-ivory-coast-haaland-world-cup-2026",
+    "top-7-scorers-golden-boot-world-cup-2026-5",
+    "argentina-cape-verde-preview-messi-world-cup-2026",
+    "top-7-surprise-teams-world-cup-2026"
+  ],
+  "notes": "Два слага вернулись с суффиксом (-2, -5): базовые слаги уже существовали в БД; остальные 6 вставлены с чистыми слагами."
 }
