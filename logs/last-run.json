@@ -1,15 +1,21 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
-  "count": 8,
-  "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
-  ]
+  "run_id": "run-20260702-wc2026-r32",
+  "generated_at": "2026-07-02T16:30:00+00:00",
+  "phase": "wc2026_r32_knockout",
+  "counts": {
+    "published": 5,
+    "news": 2,
+    "trend": 3,
+    "planned": 8,
+    "removed_accidental_duplicates": 5,
+    "removed_same_day_duplicates": 3
+  },
+  "published_slugs": [
+    "balogun-red-card-suspension-round-of-16-wc2026",
+    "brazil-norway-round-of-16-preview-haaland-wc2026",
+    "top-7-geroev-1-16-finala-wc2026",
+    "paraguay-germany-shootout-upset-round-of-32-wc2026",
+    "uzbekistan-debut-wc2026-top-5-itogov"
+  ],
+  "notes": "Endpoint returned WORKER_RESOURCE_LIMIT on the 8-article batch after committing the first 5; re-sent one-per-request (all inserted with -2 suffixes). Deleted the 5 accidental -2 duplicates and 3 base articles (belgium/england/portugal) that duplicated earlier same-day articles from other unlogged runs. articles-history.jsonl was stale (only 2026-06-07) because other ~8-hourly runs publish without appending to it."
 }
