@@ -1,15 +1,31 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
+  "run_id": "run-20260703-wc2026-r32",
+  "generated_at": "2026-07-03T09:20:00Z",
   "count": 8,
   "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
-  ]
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "argentina-cape-verde-preview-world-cup-2026",
+    "top-7-storylines-knockout-world-cup-2026"
+  ],
+  "incident": {
+    "severity": "high",
+    "summary": "Дедупликация не сработала: 6 из 8 сюжетов уже были в БД (endpoint вернул слаги с суффиксом -2). Плюс баг в логике повторной отправки продублировал те же 6 материалов ещё раз (-3).",
+    "root_cause": "articles-history.jsonl в git обновлён только до 2026-06-07; логи последующих прогонов не коммитились, поэтому дедуп этого прогона был слеп к уже опубликованным июльским материалам. Дополнительно: retry-код сопоставлял результаты по возвращённому (суффиксированному) слагу, а не по исходному.",
+    "duplicate_rows_added": 12,
+    "clean_new_rows": 2,
+    "cleanup_needed": "Удалить лишние строки в public.articles вручную (endpoint только вставляет, удаления нет). Дубликаты: 6 x -2 и 6 x -3 для 6 сюжетов; оставить по одной версии каждого.",
+    "affected_base_slugs": [
+      "portugal-croatia-2-1-world-cup-2026-round-of-32",
+      "salah-injury-doubt-egypt-australia-world-cup-2026",
+      "spain-austria-3-0-world-cup-2026-round-of-32",
+      "portugal-spain-preview-round-of-16-world-cup-2026",
+      "switzerland-algeria-2-0-world-cup-2026-round-of-32",
+      "top-7-events-round-of-32-world-cup-2026"
+    ]
+  }
 }
