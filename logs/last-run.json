@@ -1,15 +1,18 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
+  "run_id": "run-20260704-r16opening",
+  "generated_at": "2026-07-04T08:29:02Z",
   "count": 8,
+  "news": 5,
+  "trend": 3,
   "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
-  ]
+    "argentina-3-2-cape-verde-round-of-32-wc2026-2",
+    "egypt-beat-australia-penalties-first-knockout-win-wc2026-2",
+    "colombia-1-0-ghana-round-of-32-wc2026-2",
+    "paraguay-vs-france-round-of-16-preview-wc2026-2",
+    "balogun-red-card-suspension-usa-belgium-wc2026-2",
+    "brazil-vs-norway-round-of-16-preview-wc2026-2",
+    "spain-vs-portugal-round-of-16-preview-wc2026-2",
+    "top-7-scorers-golden-boot-race-wc2026"
+  ],
+  "warning": "WORKER_RESOURCE_LIMIT on first 8-image batch caused partial base inserts; 7 stories now have base + -2 duplicate rows (top-7 single). Manual dedup needed in Supabase (delete one row per pair)."
 }
