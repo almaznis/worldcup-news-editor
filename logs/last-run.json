@@ -1,15 +1,32 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
-  "count": 8,
+  "run_id": "run-20260704-worldcup-r16",
+  "generated_at": "2026-07-04T16:30:00Z",
+  "logged_at": "2026-07-04T16:26:24.188398+00:00",
+  "counts": {
+    "inserted": 8,
+    "duplicate_suffix": 1,
+    "failed": 0,
+    "total": 8
+  },
+  "slugs": [
+    "argentina-3-2-cape-verde-messi-record-world-cup-2026-round-of-32",
+    "portugal-2-1-croatia-ronaldo-connected-ball-var-world-cup-2026",
+    "egypt-australia-penalties-salah-panenka-world-cup-2026-round-of-32",
+    "paraguay-vs-france-round-of-16-mbappe-world-cup-2026-preview",
+    "balogun-red-card-suspension-usa-belgium-world-cup-2026",
+    "top-7-scorers-world-cup-2026-golden-boot-race",
+    "dastan-satpayev-kairat-chelsea-transfer-2026",
+    "brazil-vs-norway-round-of-16-haaland-vinicius-world-cup-2026-preview"
+  ],
   "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
-  ]
+    "argentina-3-2-cape-verde-messi-record-world-cup-2026-round-of-32",
+    "portugal-2-1-croatia-ronaldo-connected-ball-var-world-cup-2026",
+    "egypt-australia-penalties-salah-panenka-world-cup-2026-round-of-32",
+    "paraguay-vs-france-round-of-16-mbappe-world-cup-2026-preview",
+    "balogun-red-card-suspension-usa-belgium-world-cup-2026",
+    "dastan-satpayev-kairat-chelsea-transfer-2026",
+    "brazil-vs-norway-round-of-16-haaland-vinicius-world-cup-2026-preview",
+    "top-7-scorers-world-cup-2026-golden-boot-race-3"
+  ],
+  "note": "8/8 inserted. Ranking slug collided -> stored as ...-race-3 (fresh follow-up with current July-4 standings)."
 }
