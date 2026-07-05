@@ -1,15 +1,20 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
-  "count": 8,
-  "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
+  "run_id": "run-20260705-60f5acdf",
+  "generated_at": "2026-07-05T08:25:00+00:00",
+  "phase": "media_ru_landscape_v4",
+  "counts": {
+    "total": 8,
+    "news": 5,
+    "trend": 3
+  },
+  "slugs": [
+    "morocco-3-0-canada-world-cup-2026-round-of-16",
+    "brazil-vs-norway-world-cup-2026-round-of-16-preview",
+    "france-1-0-paraguay-mbappe-world-cup-2026-round-of-16",
+    "julian-alvarez-real-madrid-atletico-transfer-saga-2026",
+    "mexico-vs-england-world-cup-2026-azteca-round-of-16-preview",
+    "top-7-scorers-world-cup-2026-golden-boot-race-4",
+    "spain-vs-portugal-world-cup-2026-round-of-16-preview",
+    "lewandowski-chicago-fire-mls-transfer-2026"
   ]
 }
