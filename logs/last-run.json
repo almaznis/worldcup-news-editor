@@ -1,15 +1,20 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
+  "run_id": "run-20260706-8f2e2374-r16",
+  "generated_at": "2026-07-06T16:39:27.260800+00:00",
+  "phase": "r16_wc2026_ru_landscape",
   "count": 8,
-  "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
+  "counts": {
+    "news": 5,
+    "trend": 3
+  },
+  "slugs": [
+    "norway-brazil-2-1-haaland-brace-wc2026-round-of-16",
+    "england-mexico-3-2-bellingham-wc2026-round-of-16",
+    "spain-portugal-preview-wc2026-round-of-16",
+    "usa-belgium-preview-wc2026-round-of-16",
+    "tonali-tottenham-club-record-100m-transfer-july-2026",
+    "argentina-egypt-preview-wc2026-messi-salah-round-of-16",
+    "top-7-scorers-golden-boot-race-wc2026-round-of-16",
+    "top-7-sensations-wc2026-round-of-16-knockout"
   ]
 }
