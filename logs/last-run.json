@@ -1,15 +1,32 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
+  "run_id": "run-20260707-420f59f4",
+  "generated_at": "2026-07-07T08:36:37Z",
+  "phase": "wc2026_r16_knockout",
   "count": 8,
-  "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
-  ]
+  "canonical_slugs": [
+    "norway-brazil-2-1-world-cup-2026-round-of-16",
+    "argentina-egypt-round-of-16-world-cup-2026-preview",
+    "belgium-4-1-usa-world-cup-2026-round-of-16",
+    "norway-england-quarterfinal-world-cup-2026-preview",
+    "mexico-2-3-england-world-cup-2026-round-of-16",
+    "france-morocco-quarterfinal-world-cup-2026-preview",
+    "ronaldo-last-world-cup-portugal-out-spain-2026",
+    "top-7-sensations-round-of-16-world-cup-2026"
+  ],
+  "incident": "First batch POST (all 8 in one request, ~1.3MB base64) timed out with HTTP 546 after partially inserting 6 base-slug rows. The per-article retry then re-inserted those 6 as '-2' duplicates. All 8 intended articles are live, but 6 topics have a duplicate row and there is 1 stray diagnostic row. Endpoint is insert-only (no delete), so cleanup must be done manually in Supabase.",
+  "duplicate_rows_to_delete_manually": {
+    "note": "For each of the 6 topics there are two rows: '<slug>' and '<slug>-2'. Keep whichever copy renders WITH a cover image and delete the other.",
+    "minus2_row_ids": {
+      "norway-brazil-2-1-world-cup-2026-round-of-16-2": "96e90cb3-ebb2-43f2-8849-2aff1b7171b9",
+      "argentina-egypt-round-of-16-world-cup-2026-preview-2": "cc2280fc-8fa3-46e7-b808-6463ee4157d8",
+      "belgium-4-1-usa-world-cup-2026-round-of-16-2": "46439f48-82ac-4de9-817f-6340389c8564",
+      "norway-england-quarterfinal-world-cup-2026-preview-2": "d96eea8a-072b-4caf-8a9f-76350c2b573b",
+      "mexico-2-3-england-world-cup-2026-round-of-16-2": "1b0c35b4-7911-4741-b3b4-cf0e69600cbd",
+      "france-morocco-quarterfinal-world-cup-2026-preview-2": "da6121f1-79de-4343-8568-c58adb4b7917"
+    }
+  },
+  "diagnostic_row_to_delete": {
+    "slug": "__diagnostic-test-delete-me",
+    "id": "db5cab7f-abd1-4fba-ad18-569be4b24809"
+  }
 }
