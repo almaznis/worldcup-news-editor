@@ -1,15 +1,19 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
+  "run_id": "run-20260707-wc2026-r16-knockout",
+  "generated_at": "2026-07-07T16:28:00.740997+00:00",
+  "phase": "wc2026_r16_knockout_v1",
   "count": 8,
+  "news_count": 5,
+  "trend_count": 3,
   "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
-  ]
+    "spain-1-0-portugal-ronaldo-last-world-cup-2026",
+    "argentina-egypt-round-of-16-messi-salah-world-cup-2026",
+    "balogun-fifa-suspension-reversed-trump-belgium-uefa-2026",
+    "usa-1-4-belgium-hosts-eliminated-world-cup-2026",
+    "switzerland-colombia-round-of-16-preview-world-cup-2026",
+    "top-7-scorers-world-cup-2026-golden-boot-5",
+    "top-5-sensations-world-cup-2026-round-of-16",
+    "france-morocco-quarterfinal-preview-world-cup-2026"
+  ],
+  "notes": "top-7-scorers-world-cup-2026-golden-boot returned db_slug '-5' (topic already existed in DB from prior unlogged runs; published as timely follow-up with updated standings). Other 7 slugs inserted clean."
 }
