@@ -1,15 +1,21 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
+  "run_id": "run-20260708-0dba391c",
+  "generated_at": "2026-07-08T08:19:52Z",
+  "phase": "knockouts_qf_previews",
   "count": 8,
+  "counts": {
+    "news": 5,
+    "trend": 3
+  },
   "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
-  ]
+    "argentina-egypt-3-2-world-cup-2026-round-of-16",
+    "france-morocco-quarterfinal-preview-world-cup-2026-2",
+    "switzerland-colombia-penalty-shootout-world-cup-2026",
+    "jordan-henderson-freak-injury-out-of-world-cup-2026",
+    "spain-belgium-quarterfinal-preview-world-cup-2026",
+    "top-7-golden-boot-scorers-world-cup-2026",
+    "cristiano-ronaldo-world-cup-farewell-portugal-out-2026",
+    "top-7-knockout-upsets-world-cup-2026"
+  ],
+  "notes": "france-morocco slug collided -> published as -2; content is a fresh July 9 QF preview"
 }
