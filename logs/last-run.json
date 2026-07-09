@@ -1,15 +1,35 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
+  "run_id": "run-20260709-qf-l0bgub",
+  "generated_at": "2026-07-09T00:34:27Z",
+  "phase": "wc2026_quarterfinals_v1",
   "count": 8,
-  "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
-  ]
+  "slugs": [
+    "argentina-3-2-egypt-round-of-16-world-cup-2026",
+    "france-morocco-quarterfinal-preview-world-cup-2026",
+    "switzerland-colombia-penalty-shootout-round-of-16-world-cup-2026",
+    "saibari-bayern-hamstring-doubt-morocco-france-world-cup-2026",
+    "norway-england-quarterfinal-haaland-kane-world-cup-2026",
+    "top-7-scorers-golden-boot-race-world-cup-2026",
+    "argentina-switzerland-quarterfinal-messi-world-cup-2026",
+    "top-5-shocks-knockout-stage-world-cup-2026"
+  ],
+  "news_count": 5,
+  "trend_count": 3,
+  "incident": {
+    "summary": "Publish retry loop keyed dedup on the endpoint-returned slug; the endpoint appends -2/-3 on slug collisions, so 6 of 8 articles were re-inserted on each retry, creating duplicate rows. An initial batch POST also returned HTTP 546 WORKER_RESOURCE_LIMIT (8 base64 images in one request) after partial inserts.",
+    "duplicated_slugs": [
+      "argentina-3-2-egypt-round-of-16-world-cup-2026",
+      "france-morocco-quarterfinal-preview-world-cup-2026",
+      "switzerland-colombia-penalty-shootout-round-of-16-world-cup-2026",
+      "saibari-bayern-hamstring-doubt-morocco-france-world-cup-2026",
+      "norway-england-quarterfinal-haaland-kane-world-cup-2026",
+      "top-7-scorers-golden-boot-race-world-cup-2026"
+    ],
+    "clean_single_insert_slugs": [
+      "argentina-switzerland-quarterfinal-messi-world-cup-2026",
+      "top-5-shocks-knockout-stage-world-cup-2026"
+    ],
+    "action_required": "Manually delete duplicate rows for the duplicated_slugs in Supabase project jcezmolckegxlvizvmtj (public.articles). Agent cannot delete (insert-only scope).",
+    "remediation": "Send at most 1-2 base64 images per request; dedup retries by the SENT slug and stop retrying any slug once ANY inserted status is returned (even with a -N suffix)."
+  }
 }
