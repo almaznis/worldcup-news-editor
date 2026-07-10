@@ -1,15 +1,31 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
+  "run_id": "run-20260710-wc2026-qf",
+  "generated_at": "2026-07-10T00:27:52+00:00",
+  "phase": "wc2026_quarterfinals_v1",
   "count": 8,
+  "counts": {
+    "news": 5,
+    "trend": 3
+  },
   "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
-  ]
+    "france-2-0-morocco-quarterfinal-world-cup-2026-2",
+    "pulisic-injury-usa-out-world-cup-2026-2",
+    "spain-vs-belgium-quarterfinal-preview-world-cup-2026-2",
+    "top-7-scorers-golden-boot-world-cup-2026-10",
+    "egypt-fifa-referee-complaint-argentina-world-cup-2026-2",
+    "norway-vs-england-quarterfinal-preview-world-cup-2026",
+    "top-7-title-contenders-world-cup-2026-quarterfinals",
+    "argentina-vs-switzerland-quarterfinal-preview-world-cup-2026"
+  ],
+  "slugs_intended": [
+    "france-2-0-morocco-quarterfinal-world-cup-2026",
+    "pulisic-injury-usa-out-world-cup-2026",
+    "spain-vs-belgium-quarterfinal-preview-world-cup-2026",
+    "top-7-scorers-golden-boot-world-cup-2026",
+    "egypt-fifa-referee-complaint-argentina-world-cup-2026",
+    "norway-vs-england-quarterfinal-preview-world-cup-2026",
+    "top-7-title-contenders-world-cup-2026-quarterfinals",
+    "argentina-vs-switzerland-quarterfinal-preview-world-cup-2026"
+  ],
+  "notes": "5 slugs returned with numeric suffixes (collisions). The initial 8-image batch POST failed with HTTP 546 WORKER_RESOURCE_LIMIT after likely partially inserting the first 5 articles; the one-at-a-time retry then re-inserted all 8, so france/pulisic/spain/golden-boot/egypt likely have duplicate rows. golden-boot returned -10, indicating ~9 prior copies already in the DB from earlier runs not reflected in this local history log (log is out of sync with production DB)."
 }
