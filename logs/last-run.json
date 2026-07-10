@@ -1,15 +1,26 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
+  "run_id": "run-20260710-worldcup-qf-v1",
+  "generated_at": "2026-07-10T08:35:00Z",
+  "phase": "worldcup_qf_2026_07_10",
   "count": 8,
+  "news": 5,
+  "trend": 3,
   "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
+    "france-2-0-morocco-world-cup-2026-quarterfinal-2",
+    "spain-belgium-world-cup-2026-quarterfinal-preview-2",
+    "egypt-var-complaint-fifa-argentina-world-cup-2026-2",
+    "norway-england-world-cup-2026-quarterfinal-preview-2",
+    "amadou-onana-acl-injury-out-world-cup-2026-2",
+    "top-5-scorers-world-cup-2026-golden-boot-race",
+    "argentina-switzerland-world-cup-2026-quarterfinal-preview",
+    "top-5-favourites-title-world-cup-2026-quarterfinals"
+  ],
+  "note": "Initial batch POST returned HTTP 546 (WORKER_RESOURCE_LIMIT) after partially inserting the 5 news articles; re-posting per-article produced -2 suffixes for those 5. The 5 clean-slug news rows (without the -2) are orphan duplicates from the crashed batch and should be deleted in Supabase, keeping the -2 versions (verified, with cover images).",
+  "duplicate_rows_to_delete": [
+    "france-2-0-morocco-world-cup-2026-quarterfinal",
+    "spain-belgium-world-cup-2026-quarterfinal-preview",
+    "egypt-var-complaint-fifa-argentina-world-cup-2026",
+    "norway-england-world-cup-2026-quarterfinal-preview",
+    "amadou-onana-acl-injury-out-world-cup-2026"
   ]
 }
