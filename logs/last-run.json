@@ -1,15 +1,19 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
+  "run_id": "run-20260711-wc26-qf-a1f7",
+  "generated_at": "2026-07-11T09:40:00Z",
+  "phase": "wc2026_qf_semi",
   "count": 8,
+  "news": 5,
+  "trend": 3,
   "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
-  ]
+    "spain-belgium-2-1-world-cup-2026-quarterfinal-2",
+    "england-norway-quarterfinal-world-cup-2026-preview-2",
+    "argentina-switzerland-quarterfinal-world-cup-2026-preview-2",
+    "france-spain-semifinal-world-cup-2026-2",
+    "ronaldo-farewell-world-cup-2026-portugal-out-2",
+    "top-7-scorers-world-cup-2026-golden-boot-race-6",
+    "jurgen-klopp-germany-national-team-manager-2026",
+    "top-5-favourites-world-cup-2026-semifinals"
+  ],
+  "note": "Initial single-batch POST hit WORKER_RESOURCE_LIMIT; published in batches of 2. Several slugs collided with pre-existing DB rows (suffixed -2/-6)."
 }
