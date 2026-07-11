@@ -1,15 +1,24 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
+  "run_id": "run-20260711-wc2026-qf",
+  "generated_at": "2026-07-11T00:30:49Z",
+  "finished_at": "2026-07-11T00:35:01Z",
+  "phase": "wc2026_quarterfinals",
   "count": 8,
+  "counts": {
+    "news": 5,
+    "trend": 3,
+    "inserted": 8
+  },
   "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
-  ]
+    "spain-2-1-belgium-world-cup-2026-quarterfinal-2",
+    "france-2-0-morocco-mbappe-semifinal-wc2026-2",
+    "norway-vs-england-world-cup-2026-quarterfinal-2",
+    "argentina-vs-switzerland-world-cup-2026-quarterfinal-2",
+    "egypt-fifa-refereeing-complaint-wc2026-2",
+    "top-7-scorers-golden-boot-world-cup-2026-11",
+    "top-5-upsets-world-cup-2026-knockouts",
+    "top-5-contenders-world-cup-2026-semifinals"
+  ],
+  "publish_note": "Initial 8-in-one batch hit endpoint WORKER_RESOURCE_LIMIT (HTTP 546) and was auto-retried, partially inserting; per-article re-publish then succeeded (HTTP 200) but 6 slugs returned with collision suffixes (-2, golden-boot -11), indicating duplicate rows that need manual cleanup.",
+  "endpoint": "https://jcezmolckegxlvizvmtj.supabase.co/functions/v1/publish-articles"
 }
