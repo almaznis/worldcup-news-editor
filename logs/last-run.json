@@ -1,15 +1,35 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
-  "count": 8,
+  "run_id": "run-20260711-wc26-qf",
+  "generated_at": "2026-07-11T16:34:31Z",
+  "portal": "Sport Arena Hub (Футбол.kz)",
+  "counts": {
+    "total": 8,
+    "news": 5,
+    "trend": 3,
+    "inserted": 8
+  },
+  "slugs": [
+    "spain-2-1-belgium-world-cup-2026-quarterfinal",
+    "norway-vs-england-world-cup-2026-quarterfinal-preview",
+    "argentina-vs-switzerland-world-cup-2026-quarterfinal-preview",
+    "france-vs-spain-world-cup-2026-semifinal-preview",
+    "courtois-injury-belgium-real-madrid-world-cup-2026",
+    "top-7-scorers-golden-boot-world-cup-2026",
+    "top-5-shocks-knockout-world-cup-2026",
+    "top-6-title-contenders-world-cup-2026-after-quarterfinals"
+  ],
   "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
+    "spain-2-1-belgium-world-cup-2026-quarterfinal-4",
+    "norway-vs-england-world-cup-2026-quarterfinal-preview-2",
+    "argentina-vs-switzerland-world-cup-2026-quarterfinal-preview-2",
+    "france-vs-spain-world-cup-2026-semifinal-preview-2",
+    "courtois-injury-belgium-real-madrid-world-cup-2026-2",
+    "top-7-scorers-golden-boot-world-cup-2026-12",
+    "top-5-shocks-knockout-world-cup-2026",
+    "top-6-title-contenders-world-cup-2026-after-quarterfinals"
+  ],
+  "anomalies": [
+    "first 8-article batch POST returned HTTP 546 WORKER_RESOURCE_LIMIT; succeeded via batches of 2",
+    "6/8 returned collision-suffixed slugs (spain -4, top-7-scorers -12, norway/argentina/france/courtois -2) indicating pre-existing copies in live DB / cross-run duplication not caught by local dedup log"
   ]
 }
