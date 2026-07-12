@@ -1,15 +1,33 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
-  "count": 8,
-  "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
-  ]
+  "run_id": "run-20260712-wc-semis",
+  "generated_at": "2026-07-12T13:30:00Z",
+  "topic_theme": "World Cup 2026 knockout stage (quarterfinals done, semifinals July 14-15)",
+  "counts": { "total": 8, "published_ok": 8, "news": 5, "trend": 3 },
+  "articles": [
+    { "slug": "england-argentina-world-cup-2026-semifinal-preview", "type": "preview", "source_type": "news" },
+    { "slug": "england-2-1-norway-world-cup-2026-quarterfinal", "type": "match_report", "source_type": "news" },
+    { "slug": "world-cup-2026-golden-boot-race-messi-mbappe", "type": "ranking", "source_type": "trend" },
+    { "slug": "france-spain-world-cup-2026-semifinal-preview", "type": "preview", "source_type": "news" },
+    { "slug": "argentina-3-1-switzerland-world-cup-2026-quarterfinal", "type": "match_report", "source_type": "news" },
+    { "slug": "world-cup-2026-young-stars-bellingham-yamal", "type": "ranking", "source_type": "trend" },
+    { "slug": "karim-adeyemi-barcelona-transfer-july-2026", "type": "transfer", "source_type": "news" },
+    { "slug": "uzbekistan-first-world-cup-2026-debut", "type": "ranking", "source_type": "trend" }
+  ],
+  "incident": {
+    "summary": "First all-in-one POST (1.3 MB, 8 base64 images) returned HTTP 546 WORKER_RESOURCE_LIMIT, but the Edge Function had already inserted the first 5 articles before being killed. The batch retry (2 per request) then re-inserted those 5 with -2 suffixes, creating 5 duplicate rows on the portal.",
+    "duplicated_stories_each_now_appear_twice": [
+      "england-argentina-world-cup-2026-semifinal-preview  (+ ...-2)",
+      "england-2-1-norway-world-cup-2026-quarterfinal  (+ ...-2)",
+      "world-cup-2026-golden-boot-race-messi-mbappe  (+ ...-2)",
+      "france-spain-world-cup-2026-semifinal-preview  (+ ...-2)",
+      "argentina-3-1-switzerland-world-cup-2026-quarterfinal  (+ ...-2)"
+    ],
+    "cleanup_needed": "Delete ONE row from each of the 5 duplicated pairs (content is identical). Requires DB/dashboard access; the publish endpoint is insert-only so the agent could not remove them.",
+    "single_clean_rows": [
+      "world-cup-2026-young-stars-bellingham-yamal",
+      "karim-adeyemi-barcelona-transfer-july-2026",
+      "uzbekistan-first-world-cup-2026-debut"
+    ],
+    "future_fix": "Always POST in small batches (<=2 articles) from the start; never send all 8 base64 images in one request."
+  }
 }
