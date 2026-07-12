@@ -1,0 +1,6 @@
+
+# WorldCupNewsAgent run artifacts (large base64)
+scratchpad_payload.json
+scratchpad_results.json
+__pycache__/
+*.pyc
