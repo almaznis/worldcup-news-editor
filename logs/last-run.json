@@ -1,15 +1,28 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
+  "run_id": "run-20260712-wc26-semis",
+  "generated_at": "2026-07-12T09:30:00Z",
+  "phase": "wc2026_semifinals_v1",
   "count": 8,
+  "news_count": 5,
+  "trend_count": 3,
   "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
+    "england-norway-2-1-world-cup-2026-quarterfinal",
+    "france-injuries-tchouameni-mbappe-world-cup-2026-semifinal",
+    "france-spain-world-cup-2026-semifinal-preview-3",
+    "spain-belgium-2-1-world-cup-2026-quarterfinal-3",
+    "scaloni-messi-machine-record-world-cup-2026",
+    "england-argentina-world-cup-2026-semifinal-preview-3",
+    "top-7-scorers-world-cup-2026-golden-boot-7",
+    "argentina-switzerland-3-1-world-cup-2026-quarterfinal"
+  ],
+  "db_ids": [
+    "340daab9-3910-4eae-9804-ec7e96cf98a2",
+    "4e284016-c407-4ae0-b791-6a0e95784004",
+    "7b931844-c6f6-46fc-9c35-bc1657b2de55",
+    "9fdc11fb-8040-4ab4-9fa3-692811bd80cc",
+    "f91d9eb8-a12d-47be-837b-1e7729da14ac",
+    "39c1c385-0306-435d-8430-6166c9fa7a80",
+    "e942a056-5122-4e1d-996d-40effbcc9e99",
+    "e34d8b9f-bdbd-42f5-a0a6-55b4f633c812"
   ]
 }
