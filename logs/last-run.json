@@ -1,15 +1,32 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
+  "run_id": "run-20260713-worldcup-semis",
+  "generated_at": "2026-07-13T18:30:00+05:00",
+  "phase": "wc2026_semifinals_eve",
   "count": 8,
+  "news_count": 5,
+  "trend_count": 3,
   "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
-  ]
+    "france-spain-world-cup-2026-semifinal-preview-6",
+    "andrey-santos-manchester-united-transfer-chelsea-2",
+    "world-cup-2026-golden-boot-top-5-scorers-2",
+    "lewandowski-chicago-fire-mls-transfer-2026-3",
+    "england-argentina-world-cup-2026-semifinal-preview-5",
+    "griezmann-orlando-city-mls-transfer-2026",
+    "uzbekistan-world-cup-2026-debut-5-takeaways",
+    "dastan-satpaev-chelsea-transfer-kairat-farewell"
+  ],
+  "publish_incident": {
+    "issue": "First batch POST (all 8, ~2.3MB) returned HTTP 546 WORKER_RESOURCE_LIMIT; the edge function worker retried and partially inserted the first articles multiple times before crashing, then articles were re-sent individually.",
+    "duplicate_rows_needing_cleanup": {
+      "france-spain-world-cup-2026-semifinal-preview": "6 rows exist (base,-2..-6); keep france-spain-world-cup-2026-semifinal-preview-6, delete the rest",
+      "england-argentina-world-cup-2026-semifinal-preview": "5 rows (base,-2..-5); keep -5, delete rest",
+      "lewandowski-chicago-fire-mls-transfer-2026": "3 rows (base,-2,-3); keep -3, delete rest",
+      "andrey-santos-manchester-united-transfer-chelsea": "2 rows (base,-2); keep -2, delete base",
+      "world-cup-2026-golden-boot-top-5-scorers": "2 rows (base,-2); keep -2, delete base",
+      "griezmann-orlando-city-mls-transfer-2026": "1 row (clean)",
+      "uzbekistan-world-cup-2026-debut-5-takeaways": "1 row (clean)",
+      "dastan-satpaev-chelsea-transfer-kairat-farewell": "1 row (clean)"
+    },
+    "note": "Kept copies are the individually re-sent inserts that completed with image upload. Earlier failed-batch partial rows may lack images and should be removed by an admin with DB access (publish endpoint has no delete)."
+  }
 }
