@@ -1,15 +1,31 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
-  "count": 8,
+  "run_id": "run-20260714-semis-v1",
+  "generated_at": "2026-07-14T09:25:00Z",
+  "phase": "semifinals_v1",
+  "counts": {
+    "news": 5,
+    "trend": 3,
+    "total": 8,
+    "inserted": 8,
+    "fresh": 3,
+    "duplicates": 5
+  },
   "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
-  ]
+    "france-spain-world-cup-2026-semifinal-preview-9",
+    "infantino-fifa-64-team-world-cup-2030-2",
+    "world-cup-2026-golden-boot-top-7-scorers-2",
+    "england-argentina-world-cup-2026-semifinal-preview-8",
+    "england-squad-news-quansah-suspended-james-rice-wc2026-2",
+    "world-cup-2026-young-stars-top-5",
+    "newcastle-zion-suzuki-goalkeeper-talks-2026",
+    "world-cup-2026-title-favourites-odds-semifinals"
+  ],
+  "duplicate_slugs": [
+    "france-spain-world-cup-2026-semifinal-preview-9",
+    "infantino-fifa-64-team-world-cup-2030-2",
+    "world-cup-2026-golden-boot-top-7-scorers-2",
+    "england-argentina-world-cup-2026-semifinal-preview-8",
+    "england-squad-news-quansah-suspended-james-rice-wc2026-2"
+  ],
+  "note": "All 8 inserted (HTTP 200). 5 slugs collided with pre-existing DB rows from earlier same-day runs whose logs were not committed to the repo (ephemeral clone) -> local dedup could not catch them. urllib POST returned HTTP 546 and inserted nothing (verified: fresh slugs came back without suffix); published via curl."
 }
