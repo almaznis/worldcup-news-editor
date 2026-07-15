@@ -1,15 +1,40 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
-  "count": 8,
+  "run_id": "run-20260715-5100afa0",
+  "generated_at": "2026-07-15T16:24:45.609077+00:00",
+  "counts": {
+    "total": 8,
+    "news": 5,
+    "trend": 3,
+    "inserted": 4,
+    "inserted_rows": 8,
+    "new_unique": 4,
+    "duplicates_suffixed": 4
+  },
+  "slugs": [
+    "spain-2-0-france-world-cup-2026-semifinal",
+    "zidane-replace-deschamps-france-coach-2026",
+    "england-argentina-world-cup-2026-semifinal-preview",
+    "anthony-gordon-barcelona-transfer-2026",
+    "world-cup-2026-final-preview-spain-metlife",
+    "top-7-scorers-world-cup-2026-golden-boot",
+    "dastan-satpaev-chelsea-transfer-2026",
+    "top-5-sensations-world-cup-2026"
+  ],
   "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
-  ]
+    "spain-2-0-france-world-cup-2026-semifinal-3",
+    "zidane-replace-deschamps-france-coach-2026",
+    "england-argentina-world-cup-2026-semifinal-preview-10",
+    "anthony-gordon-barcelona-transfer-2026",
+    "world-cup-2026-final-preview-spain-metlife",
+    "top-7-scorers-world-cup-2026-golden-boot-10",
+    "dastan-satpaev-chelsea-transfer-2026-2",
+    "top-5-sensations-world-cup-2026"
+  ],
+  "duplicate_slugs": [
+    "spain-2-0-france-world-cup-2026-semifinal-3",
+    "england-argentina-world-cup-2026-semifinal-preview-10",
+    "top-7-scorers-world-cup-2026-golden-boot-10",
+    "dastan-satpaev-chelsea-transfer-2026-2"
+  ],
+  "note": "Local dedup log was stale (only prior June-07 run); DB already contained 4 of these topics from earlier scheduled runs, so they were inserted with numeric suffixes (duplicates)."
 }
