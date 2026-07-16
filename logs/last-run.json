@@ -1,15 +1,47 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
+  "run_id": "run-20260716-worldcup-final-week",
+  "generated_at": "2026-07-16T09:20:00Z",
+  "phase": "worldcup_final_week_v1",
   "count": 8,
+  "news": 5,
+  "trend": 3,
+  "slugs": [
+    "argentina-england-2-1-world-cup-2026-semifinal",
+    "spain-argentina-world-cup-2026-final-preview",
+    "messi-all-time-world-cup-top-scorer-record-2026",
+    "kairat-sutjeska-champions-league-qualifier-july-2026",
+    "dastan-satpayev-chelsea-preseason-2026",
+    "spain-france-2-0-world-cup-2026-semifinal",
+    "top-7-heroes-world-cup-2026-before-final",
+    "france-england-world-cup-2026-third-place-playoff"
+  ],
   "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
-  ]
+    "argentina-england-2-1-world-cup-2026-semifinal-2",
+    "spain-argentina-world-cup-2026-final-preview-2",
+    "messi-all-time-world-cup-top-scorer-record-2026-2",
+    "kairat-sutjeska-champions-league-qualifier-july-2026-2",
+    "dastan-satpayev-chelsea-preseason-2026-2",
+    "spain-france-2-0-world-cup-2026-semifinal",
+    "top-7-heroes-world-cup-2026-before-final",
+    "france-england-world-cup-2026-third-place-playoff"
+  ],
+  "incident": {
+    "type": "partial_batch_then_retry_duplicates",
+    "detail": "Первый батч из 8 статей вернул HTTP 546 (WORKER_RESOURCE_LIMIT), но успел вставить первые 5 статей с чистыми слагами. Повторная поштучная отправка вставила эти же 5 повторно со слагами -2. В базе образовались 5 дубликатов.",
+    "duplicate_db_slugs": [
+      "argentina-england-2-1-world-cup-2026-semifinal-2",
+      "spain-argentina-world-cup-2026-final-preview-2",
+      "messi-all-time-world-cup-top-scorer-record-2026-2",
+      "kairat-sutjeska-champions-league-qualifier-july-2026-2",
+      "dastan-satpayev-chelsea-preseason-2026-2"
+    ],
+    "canonical_slugs": [
+      "argentina-england-2-1-world-cup-2026-semifinal",
+      "spain-argentina-world-cup-2026-final-preview",
+      "messi-all-time-world-cup-top-scorer-record-2026",
+      "kairat-sutjeska-champions-league-qualifier-july-2026",
+      "dastan-satpayev-chelsea-preseason-2026"
+    ],
+    "action_needed": "Удалить вручную 5 строк с суффиксом -2 (эндпоинт только POST, удаление недоступно агенту)"
+  }
 }
