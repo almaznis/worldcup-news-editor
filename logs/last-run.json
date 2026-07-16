@@ -1,15 +1,19 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
+  "run_id": "run-20260716-wc2026-final-week",
+  "generated_at": "2026-07-16T16:24:04Z",
+  "phase": "wc2026_final_week_ru",
   "count": 8,
+  "news": 5,
+  "trend": 3,
   "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
-  ]
+    "argentina-2-1-england-wc2026-semifinal",
+    "spain-argentina-world-cup-2026-final-preview-3",
+    "spain-team-news-world-cup-2026-final-yamal-porro",
+    "france-england-world-cup-2026-third-place-playoff-2",
+    "trossard-arsenal-besiktas-transfer-2026",
+    "world-cup-2026-golden-boot-top-scorers-2",
+    "mason-greenwood-fenerbahce-transfer-2026",
+    "world-cup-2026-playoff-records-sensations-top-7"
+  ],
+  "notes": "WC2026 final week. 3 slugs auto-suffixed by endpoint due to pre-existing rows in shared DB; not duplicates of logged topics."
 }
