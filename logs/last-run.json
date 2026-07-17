@@ -1,15 +1,23 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
+  "run_id": "run-20260717-c4a1243a-v1",
+  "generated_at": "2026-07-17T16:34:00Z",
+  "phase": "wc2026_final_week_news_v1",
   "count": 8,
+  "counts": {
+    "news": 5,
+    "trend": 3
+  },
   "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
+    "wc2026-final-spain-argentina-preview-messi-yamal",
+    "wc2026-third-place-france-england-preview",
+    "wc2026-final-referee-slavko-vincic-appointed",
+    "wc2026-final-halftime-show-madonna-shakira-bts-bieber",
+    "william-saliba-injury-france-wc2026",
+    "argentina-2-1-england-wc2026-semifinal-report",
+    "wc2026-golden-boot-top-scorers-ranking",
+    "mason-greenwood-fenerbahce-transfer-2026-2"
+  ],
+  "notes": [
+    "slug-collision:mason-greenwood-fenerbahce-transfer-2026-2"
   ]
 }
