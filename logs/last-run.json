@@ -1,15 +1,39 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
-  "count": 8,
-  "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
-  ]
+  "run_id": "run-20260717-081724",
+  "generated_at": "2026-07-17T08:17:24Z",
+  "finalized_at": "2026-07-17T08:35:01Z",
+  "counts": {
+    "total": 8,
+    "news": 5,
+    "trend": 3
+  },
+  "slugs": [
+    "argentina-spain-world-cup-2026-final-preview",
+    "spain-argentina-squad-injury-news-wc2026-final",
+    "france-england-world-cup-2026-third-place-preview",
+    "scaloni-de-la-fuente-coaches-duel-wc2026-final",
+    "top-7-scorers-world-cup-2026-golden-boot",
+    "messi-world-cup-2026-goal-record-last-dance",
+    "central-asia-cis-teams-world-cup-2026",
+    "lamine-yamal-messi-world-cup-2026-final-duel"
+  ],
+  "publish_endpoint": "https://jcezmolckegxlvizvmtj.supabase.co/functions/v1/publish-articles",
+  "all_stories_published": true,
+  "anomaly": {
+    "issue": "Пакетный POST (8 статей, ~2.5 МБ base64) вернул HTTP 546; Edge-функция, судя по всему, тайм-аутила при обработке крупных изображений, а запрос повторно проигрывался ~11 раз, каждый раз вставляя первые 5 статей (индексы 0-4).",
+    "over_published_~11x": [
+      "argentina-spain-world-cup-2026-final-preview",
+      "spain-argentina-squad-injury-news-wc2026-final",
+      "france-england-world-cup-2026-third-place-preview",
+      "scaloni-de-la-fuente-coaches-duel-wc2026-final",
+      "top-7-scorers-world-cup-2026-golden-boot"
+    ],
+    "published_cleanly_1x": [
+      "messi-world-cup-2026-goal-record-last-dance",
+      "central-asia-cis-teams-world-cup-2026",
+      "lamine-yamal-messi-world-cup-2026-final-duel"
+    ],
+    "resolution": "Оставшиеся 3 статьи (messi, central-asia, yamal) допубликованы одиночными POST-запросами (по 1 чистой копии). Дубликаты статей 0-4 удалить невозможно: эндпоинт поддерживает только вставку (POST). Требуется ручная дедупликация в БД Supabase.",
+    "recommendation": "Публиковать статьи по одной (или малыми батчами), а не единым пакетом 2.5 МБ. Рассмотреть идемпотентность эндпоинта по slug."
+  }
 }
