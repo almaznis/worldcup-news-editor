@@ -1,15 +1,18 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
+  "run_id": "run-20260718-worldcup-final-eve",
+  "generated_at": "2026-07-18T09:30:00+00:00",
+  "phase": "worldcup-final-eve-2026-07-18",
   "count": 8,
+  "inserted": 8,
   "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
-  ]
+    "final-chm-2026-argentina-ispaniya",
+    "match-za-3-mesto-frantsiya-angliya",
+    "vincic-arbitr-finala-chm-2026",
+    "17-minutnyj-pereryv-shou-final-chm-2026",
+    "saliba-travma-match-za-3-mesto",
+    "top-7-bombardirov-chm-2026-zolotaya-butsa-2",
+    "top-7-matchej-plej-off-chm-2026",
+    "top-5-dueley-finala-argentina-ispaniya"
+  ],
+  "note": "top-7-bombardirov-chm-2026-zolotaya-butsa received -2 suffix (existing slug in DB)"
 }
