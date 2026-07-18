@@ -1,15 +1,18 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
+  "run_id": "run-20260718-5a91851e",
+  "generated_at": "2026-07-18T08:26:10.139533+00:00",
+  "phase": "wc2026_finalweek_v1",
   "count": 8,
+  "news": 5,
+  "trend": 3,
   "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
+    "argentina-spain-world-cup-2026-final-preview-3",
+    "world-cup-2026-golden-boot-race-messi-mbappe-3",
+    "spain-team-news-world-cup-2026-final-yamal-porro-2",
+    "france-england-world-cup-2026-third-place-playoff-preview",
+    "milan-goncalo-ramos-bayern-brown-transfers-july-2026",
+    "world-cup-2026-final-halftime-show-lineup",
+    "world-cup-2026-final-when-where-to-watch-kazakhstan-cis",
+    "top-7-moments-world-cup-2026-2"
   ]
 }
