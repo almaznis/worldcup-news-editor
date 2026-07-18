@@ -1,15 +1,22 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
-  "count": 8,
-  "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
-  ]
+  "run_id": "run-20260718-cf2db02d",
+  "generated_at": "2026-07-18T16:20:00Z",
+  "finalized_at": "2026-07-18T16:31:04.607255+00:00",
+  "counts": {
+    "news": 5,
+    "trend": 3,
+    "inserted": 8,
+    "accidental_duplicates": 1
+  },
+  "slugs": [
+    "wc2026-final-spain-argentina-preview",
+    "lamine-yamal-fitness-doubt-wc2026-final",
+    "wc2026-golden-boot-race-top-scorers-messi-mbappe",
+    "wc2026-final-referee-slavko-vincic-appointed-2",
+    "uzbekistan-wc2026-debut-central-asia-moments",
+    "summer-transfer-window-2026-tottenham-real-madrid",
+    "france-england-third-place-playoff-wc2026-deschamps",
+    "wc2026-golden-ball-contenders-messi-mbappe-bellingham"
+  ],
+  "notes": "Все 8 статей опубликованы. Статья об арбитре получила слаг -2 (базовый слаг уже существовал в БД); из-за логики ретрая создан лишний дубль -3, требующий ручного удаления."
 }
