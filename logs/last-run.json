@@ -1,15 +1,30 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
+  "run_id": "run-20260719-worldcupfinal",
+  "generated_at": "2026-07-19T16:20:00Z",
+  "phase": "worldcup_final_day",
   "count": 8,
+  "inserted": 8,
+  "clean_new_slugs": [
+    "spain-vs-argentina-world-cup-2026-final-preview",
+    "slavko-vincic-referee-world-cup-2026-final",
+    "england-6-4-france-third-place-world-cup-2026",
+    "tottenham-267m-summer-transfers-2026",
+    "napoli-appoint-allegri-manager-2026"
+  ],
+  "collided_suffixed_slugs": [
+    "top-7-moments-world-cup-2026-3",
+    "top-7-young-stars-world-cup-2026-7",
+    "top-7-scorers-golden-boot-race-world-cup-2026-6"
+  ],
+  "note": "5 news pieces inserted with clean slugs. 3 trend rankings collided with pre-existing DB slugs (endpoint appended -3/-6/-7) => likely duplicates from prior uncommitted runs; local dedup log was incomplete.",
   "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
+    "spain-vs-argentina-world-cup-2026-final-preview",
+    "top-7-moments-world-cup-2026-3",
+    "slavko-vincic-referee-world-cup-2026-final",
+    "top-7-young-stars-world-cup-2026-7",
+    "england-6-4-france-third-place-world-cup-2026",
+    "top-7-scorers-golden-boot-race-world-cup-2026-6",
+    "tottenham-267m-summer-transfers-2026",
+    "napoli-appoint-allegri-manager-2026"
   ]
 }
