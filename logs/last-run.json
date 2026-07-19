@@ -1,15 +1,21 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
+  "run_id": "run-20260719-wc2026-final-eve",
+  "generated_at": "2026-07-19T00:35:00Z",
+  "phase": "wc2026_final_eve",
   "count": 8,
+  "split": {
+    "news": 5,
+    "trend": 3
+  },
   "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
-  ]
+    "england-6-4-france-third-place-playoff-world-cup-2026-2",
+    "elliot-anderson-manchester-city-116m-british-record-2026-2",
+    "golden-boot-race-world-cup-2026-top-scorers-mbappe-messi-2",
+    "marc-cucurella-real-madrid-transfer-2026-2",
+    "world-cup-2026-biggest-upsets-cape-verde-paraguay-germany-2",
+    "anthony-gordon-barcelona-transfer-2026-2",
+    "world-cup-2026-young-stars-yamal-cubarsi-mora",
+    "spain-argentina-world-cup-2026-final-preview-4"
+  ],
+  "notes": "Endpoint hit WORKER_RESOURCE_LIMIT (HTTP 546) on the initial 8-in-one request; that call partially inserted ~6 base slugs before crashing, so the successful retry (batches of 2) returned them as -2 duplicates. 'spain-argentina-world-cup-2026-final-preview' returned -4, indicating 3 pre-existing copies from earlier runs. Recommend: publish images in small batches; add server-side idempotency/dedup; investigate why dedup history stopped persisting after 2026-06-07."
 }
