@@ -1,15 +1,18 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
+  "run_id": "run-20260719-worldcup-final-day",
+  "generated_at": "2026-07-19T09:20:00+05:00",
+  "phase": "wc2026_final_day_ru",
   "count": 8,
+  "news": 5,
+  "trend": 3,
   "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
+    "tonali-tottenham-transfer-record-2026",
+    "england-6-4-france-third-place-wc2026",
+    "records-world-cup-2026-mbappe-bellingham",
+    "spain-argentina-world-cup-2026-final-preview-5",
+    "golden-boot-race-world-cup-2026-messi-mbappe",
+    "tielemans-manchester-united-transfer-2026",
+    "kairat-omonia-champions-league-qualifier-2026",
+    "uzbekistan-first-world-cup-2026-takeaways"
   ]
 }
