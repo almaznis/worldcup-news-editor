@@ -1,15 +1,32 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
-  "count": 8,
-  "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
-  ]
+  "run_id": "run-20260720-wc2026final",
+  "generated_at": "2026-07-20T00:25:00Z",
+  "counts": {
+    "total": 8,
+    "news": 5,
+    "trend": 3,
+    "inserted": 8
+  },
+  "slugs": [
+    "spain-argentina-1-0-world-cup-2026-final",
+    "world-cup-2026-golden-ball-boot-awards",
+    "top-7-records-spain-world-cup-2026",
+    "rodri-golden-ball-acl-comeback-world-cup-2026",
+    "ballon-dor-2026-race-after-world-cup-final",
+    "messi-future-argentina-after-world-cup-2026-final",
+    "top-7-heroes-world-cup-2026",
+    "dastan-satpaev-chelsea-kazakhstan-2026"
+  ],
+  "db_ids": {
+    "spain-argentina-1-0-world-cup-2026-final": "042ae22d-c36f-4574-84c4-467160d667c2",
+    "world-cup-2026-golden-ball-boot-awards": "f2308b55-fa17-4094-9af7-87b8ba4d02c8",
+    "top-7-records-spain-world-cup-2026": "e944d5a1-a19b-4606-b993-e972800a9fad",
+    "rodri-golden-ball-acl-comeback-world-cup-2026": "916483af-679a-4a63-bc57-48ceb323cd09",
+    "ballon-dor-2026-race-after-world-cup-final": "97e6ad44-60a9-4e0e-a6f8-daab06e00983",
+    "messi-future-argentina-after-world-cup-2026-final": "4be83a4d-de8e-4888-84a1-f50329798bd0",
+    "top-7-heroes-world-cup-2026": "c1527d29-b0c2-4b62-8cdc-e48adf37aee2",
+    "dastan-satpaev-chelsea-kazakhstan-2026": "dabcfa27-fa70-49ff-a60b-cc3203a60426"
+  },
+  "endpoint": "https://jcezmolckegxlvizvmtj.supabase.co/functions/v1/publish-articles",
+  "note": "Post-final run: World Cup 2026 concluded 19 July (Spain 1-0 Argentina). 5 news + 3 KZ/CIS trend articles."
 }
