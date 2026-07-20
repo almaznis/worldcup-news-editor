@@ -1,15 +1,18 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
+  "run_id": "run-20260720-final-aftermath",
+  "generated_at": "2026-07-20T12:30:00Z",
   "count": 8,
+  "news_count": 5,
+  "trend_count": 3,
+  "inserted": 8,
   "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
+    "spain-argentina-world-cup-2026-final-report",
+    "world-cup-2026-individual-awards",
+    "messi-argentina-future-after-world-cup-2026",
+    "joao-gomes-aston-villa-transfer-july-2026",
+    "emiliano-martinez-world-cup-2026-final-saves-record",
+    "top-7-summer-2026-transfers",
+    "community-shield-2026-arsenal-manchester-city-preview",
+    "world-cup-2026-in-numbers-records"
   ]
 }
