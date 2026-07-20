@@ -1,15 +1,24 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
-  "count": 8,
-  "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
-  ]
+  "run_id": "run-20260720-worldcup-final-v1",
+  "generated_at": "2026-07-20T08:33:00Z",
+  "phase": "worldcup_final_aftermath",
+  "note": "An earlier same-day run (00:27 UTC) had already published 8 WC-final articles but did NOT update logs/articles-history.jsonl, so dedup could not catch it. This run initially published 8 overlapping articles; the initial batch POST hit HTTP 546 (WORKER_RESOURCE_LIMIT) and partially inserted 5 rows, then a chunked re-publish created -2 duplicates. Cleaned up 9 self/overlap rows via DB; kept only 4 genuinely net-new, non-overlapping pieces. Earlier 00:27 set preserved and backfilled into the log.",
+  "kept_slugs": [
+    "england-france-6-4-third-place-world-cup-2026",
+    "top-7-transfers-summer-2026",
+    "kairat-omonia-champions-league-qualifying-2026-preview",
+    "lamine-yamal-youngest-world-champion-2026"
+  ],
+  "removed_slugs": [
+    "spain-champion-world-cup-2026-final-argentina",
+    "spain-champion-world-cup-2026-final-argentina-2",
+    "mbappe-golden-boot-world-cup-2026-record-scorer",
+    "mbappe-golden-boot-world-cup-2026-record-scorer-2",
+    "rodri-golden-ball-world-cup-2026-spain-awards",
+    "rodri-golden-ball-world-cup-2026-spain-awards-2",
+    "messi-hints-argentina-retirement-after-world-cup-2026-final",
+    "england-france-6-4-third-place-world-cup-2026-2",
+    "top-7-transfers-summer-2026-2"
+  ],
+  "kept_count": 4
 }
