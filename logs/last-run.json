@@ -1,15 +1,33 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
+  "run_id": "run-20260721-wc2026-aftermath-v1",
+  "generated_at": "2026-07-21T09:30:00Z",
+  "phase": "wc2026_aftermath",
   "count": 8,
   "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
-  ]
+    "spain-argentina-world-cup-2026-final-report-2",
+    "morgan-rogers-chelsea-record-transfer-2026",
+    "world-cup-2026-awards-golden-ball-top-scorers",
+    "denzel-dumfries-real-madrid-official-2026",
+    "kairat-omonia-champions-league-qualifier-2026-2",
+    "sandro-tonali-tottenham-club-record-2026",
+    "world-cup-2026-records-numbers-attendance",
+    "messi-ronaldo-future-after-world-cup-2026"
+  ],
+  "notes": {
+    "topics": [
+      "Финал ЧМ-2026: Испания 1:0 Аргентина (Ферран Торрес, 106')",
+      "Морган Роджерс -> Челси, рекордные 117 млн фунтов",
+      "Награды ЧМ-2026: Роди Золотой мяч, Мбаппе Золотая бутса (10)",
+      "Дензел Дюмфрис -> Реал Мадрид (официально, до 2030)",
+      "Кайрат - Омония, квалификация ЛЧ 2026/27 (превью, 22 июля)",
+      "Сандро Тонали -> Тоттенхэм, клубный рекорд 100 млн фунтов",
+      "ЧМ-2026 в цифрах: 7 рекордов (посещаемость 6,66 млн, доход свыше 9 млрд долларов)",
+      "Месси и Роналду после ЧМ-2026: будущее и контракты"
+    ],
+    "duplicate_warning": "Слаги 'spain-argentina-world-cup-2026-final-report' и 'kairat-omonia-champions-league-qualifier-2026' уже существовали в БД до этого прогона (эндпоинт вернул суффикс -2). Из-за ошибки сопоставления ответа в клиенте эти две статьи были по ошибке отправлены повторно и вставлены ещё раз с суффиксом -3 (дубликаты). Эндпоинт работает только на вставку (POST), удалить дубли из этой сессии нельзя. Ошибка сопоставления исправлена в publish_run.py (сопоставление по индексу, а не по слагу).",
+    "duplicate_rows_created_this_run": [
+      "spain-argentina-world-cup-2026-final-report-3",
+      "kairat-omonia-champions-league-qualifier-2026-3"
+    ]
+  }
 }
