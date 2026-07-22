@@ -1,15 +1,28 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
+  "run_id": "run-20260722-faf24985",
+  "generated_at": "2026-07-22T08:31:34Z",
   "count": 8,
   "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
+    "spain-argentina-world-cup-2026-final-report-5",
+    "nathan-ake-manchester-city-fenerbahce-transfer-2026-2",
+    "bernardo-silva-real-madrid-free-transfer-2026-2",
+    "anthony-gordon-newcastle-barcelona-transfer-2026-2",
+    "lionel-messi-last-world-cup-2026-final-argentina-2",
+    "world-cup-2026-individual-awards-golden-ball-boot-glove",
+    "cristiano-ronaldo-last-world-cup-2026-not-retiring",
+    "world-cup-2026-top-scorers-goals-ranking"
+  ],
+  "note": "Первый батч из 8 статей вернул 546 WORKER_RESOURCE_LIMIT (нехватка ресурсов Edge Function при декодировании 8 base64-изображений сразу). Повторная публикация выполнена батчами по 2. Из-за частичных вставок при упавшем первом запросе образовались ДУБЛИКАТЫ строк, требующие ручной очистки в Supabase.",
+  "duplicates_to_cleanup": {
+    "spain-argentina-world-cup-2026-final-report": "оставить 1 копию, удалить лишние (в БД до -5)",
+    "nathan-ake-manchester-city-fenerbahce-transfer-2026": "дубликат base + -2",
+    "bernardo-silva-real-madrid-free-transfer-2026": "дубликат base + -2",
+    "anthony-gordon-newcastle-barcelona-transfer-2026": "дубликат base + -2",
+    "lionel-messi-last-world-cup-2026-final-argentina": "дубликат base + -2"
+  },
+  "clean_single_inserts": [
+    "world-cup-2026-individual-awards-golden-ball-boot-glove",
+    "cristiano-ronaldo-last-world-cup-2026-not-retiring",
+    "world-cup-2026-top-scorers-goals-ranking"
   ]
 }
