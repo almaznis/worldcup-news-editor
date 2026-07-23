@@ -1,15 +1,17 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
+  "run_id": "run-20260723-0928c134",
+  "generated_at": "2026-07-23T09:20:00Z",
   "count": 8,
+  "news": 5,
+  "trend": 3,
   "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
+    "chelsea-morgan-rogers-british-record-2026",
+    "casemiro-inter-miami-free-transfer-2026",
+    "top-5-most-expensive-transfers-summer-2026",
+    "julian-alvarez-barcelona-atletico-saga-2026",
+    "top-5-rpl-transfer-stories-2026",
+    "arsenal-hincapie-meslier-signings-2026",
+    "akron-zenit-rpl-2026-27-tour1-preview",
+    "world-cup-2026-final-spain-argentina-key-facts"
   ]
 }
