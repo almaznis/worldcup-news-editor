@@ -1,15 +1,52 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
+  "run_id": "run-20260725-97af36f3",
+  "generated_at": "2026-07-25T01:34:42+00:00",
+  "finished_at": "2026-07-25T01:39:10+00:00",
+  "phase": "post_wc_transfer_window_2026-07-25",
   "count": 8,
-  "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
+  "news": 5,
+  "trend": 3,
+  "slugs": [
+    "summerville-al-hilal-transfer-2026",
+    "morgan-rogers-chelsea-british-record-2026",
+    "christos-tzolis-arsenal-transfer-2026",
+    "rodri-real-madrid-transfer-rumours-2026",
+    "real-madrid-yan-diomande-bid-2026",
+    "nagrady-chm-2026-rodri-mbappe-cubarsi",
+    "kairat-omonia-liga-chempionov-otvetnyy-match-2026",
+    "top-7-transferov-leta-2026"
+  ],
+  "db_returned_slugs": [
+    "summerville-al-hilal-transfer-2026-2",
+    "morgan-rogers-chelsea-british-record-2026-2",
+    "christos-tzolis-arsenal-transfer-2026-2",
+    "rodri-real-madrid-transfer-rumours-2026-2",
+    "real-madrid-yan-diomande-bid-2026-2",
+    "nagrady-chm-2026-rodri-mbappe-cubarsi",
+    "kairat-omonia-liga-chempionov-otvetnyy-match-2026",
+    "top-7-transferov-leta-2026"
+  ],
+  "note": "5 из 8 статей вернулись с суффиксом -2: предыдущая пакетная попытка публикации прервалась по WORKER_RESOURCE_LIMIT уже ПОСЛЕ вставки первых 5 трансферных статей, поэтому в БД образовались дубликаты этих 5 материалов (чистый slug + -2). Удалить дубликаты через публикующий endpoint невозможно (только INSERT). 3 трендовые статьи вставлены единожды (чистые slug).",
+  "duplicate_pairs": [
+    {
+      "input": "summerville-al-hilal-transfer-2026",
+      "returned": "summerville-al-hilal-transfer-2026-2"
+    },
+    {
+      "input": "morgan-rogers-chelsea-british-record-2026",
+      "returned": "morgan-rogers-chelsea-british-record-2026-2"
+    },
+    {
+      "input": "christos-tzolis-arsenal-transfer-2026",
+      "returned": "christos-tzolis-arsenal-transfer-2026-2"
+    },
+    {
+      "input": "rodri-real-madrid-transfer-rumours-2026",
+      "returned": "rodri-real-madrid-transfer-rumours-2026-2"
+    },
+    {
+      "input": "real-madrid-yan-diomande-bid-2026",
+      "returned": "real-madrid-yan-diomande-bid-2026-2"
+    }
   ]
 }
