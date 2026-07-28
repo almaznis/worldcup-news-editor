@@ -1,15 +1,21 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
-  "count": 8,
+  "run_id": "run-20260728-worldcup-news-8",
+  "generated_at": "2026-07-28T01:32:16+00:00",
+  "phase": "news8_ru_2026-07-28",
+  "counts": {
+    "total": 8,
+    "news": 5,
+    "trend": 3,
+    "inserted": 8
+  },
   "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
+    "chelsea-morgan-rogers-britanskiy-rekord-117m",
+    "manchester-city-elliot-anderson-116m",
+    "tottenham-sandro-tonali-rekord-100m",
+    "arsenal-bruno-guimaraes-newcastle-peregovory",
+    "bayern-nathaniel-brown-frankfurt-55m",
+    "vinicius-junior-real-madrid-kontrakt-arsenal",
+    "kairat-omonia-liga-chempionov-otvetnyy-match-29-iyulya",
+    "top-7-geroev-chempionata-mira-2026-2"
   ]
 }
