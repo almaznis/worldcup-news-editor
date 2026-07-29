@@ -1,15 +1,27 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
+  "run_id": "run-20260729-111becbe",
+  "generated_at": "2026-07-29T01:24:15+00:00",
   "count": 8,
-  "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
+  "news": 5,
+  "trend": 3,
+  "slugs": [
+    "zidane-appointed-france-head-coach-july-2026",
+    "kairat-omonia-champions-league-q2-second-leg-almaty-july-2026",
+    "celtic-club-record-signing-kasper-hogh-july-2026",
+    "akron-zenit-0-5-rpl-round-1-2026-27",
+    "cska-signs-goalkeeper-borisko-akinfeev-injury-july-2026",
+    "top-7-records-fifa-world-cup-2026",
+    "tobol-panevezys-conference-league-q2-second-leg-2026",
+    "real-madrid-summer-2026-signings-ranking"
+  ],
+  "publish_note": "First batch POST of all 8 (with base64 covers) hit Supabase edge WORKER_RESOURCE_LIMIT (546) after inserting the first 7 base slugs; article #8 (real-madrid-summer-2026-signings-ranking) was then inserted cleanly one-by-one. Resolving the partial-failure state without DB read/delete access produced duplicate '-2' rows for 7 slugs (all except real-madrid...). All 8 canonical stories are live at their base slugs, each with a cover. FIX for next run: publish one article per request to stay under the worker memory limit.",
+  "duplicate_slugs": [
+    "zidane-appointed-france-head-coach-july-2026-2",
+    "kairat-omonia-champions-league-q2-second-leg-almaty-july-2026-2",
+    "celtic-club-record-signing-kasper-hogh-july-2026-2",
+    "akron-zenit-0-5-rpl-round-1-2026-27-2",
+    "cska-signs-goalkeeper-borisko-akinfeev-injury-july-2026-2",
+    "top-7-records-fifa-world-cup-2026-2",
+    "tobol-panevezys-conference-league-q2-second-leg-2026-2"
   ]
 }
