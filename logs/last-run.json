@@ -1,15 +1,26 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
+  "run_id": "run-20260731-08b4ebd1",
+  "generated_at": "2026-07-31T01:49:44+00:00",
+  "phase": "post_wc_2026_summer_transfers",
   "count": 8,
   "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
-  ]
+    "howe-leaves-newcastle-july-2026",
+    "top-7-players-world-cup-2026",
+    "yan-diomande-real-madrid-record-signing-2026",
+    "maxence-lacroix-chelsea-transfer-2026",
+    "top-7-summer-transfers-2026",
+    "vinicius-junior-arsenal-real-madrid-future-2026",
+    "union-sg-bodo-glimt-champions-league-q3-preview-2026",
+    "kairat-champions-league-third-qualifying-round-preview-2026"
+  ],
+  "split": {
+    "news": 5,
+    "trend": 3
+  },
+  "types": {
+    "transfer": 4,
+    "ranking": 2,
+    "preview": 2
+  },
+  "notes": "История-лог был устаревшим (данные за 07.06). Дедуплицировано по реальному состоянию БД: удалён случайный дубль howe-...-2 и отчёт о матче «Кайрат»–«Омония» (уже был в БД от предыдущего прогона), заменён на превью 3-го раунда «Кайрата». Крупный batch-POST дал таймаут (HTTP 546) после вставки первых 5 статей; оставшиеся вставлены по одной."
 }
