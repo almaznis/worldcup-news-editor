@@ -1,15 +1,28 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
+  "run_id": "run-20260801-a1c9f2",
+  "generated_at": "2026-08-01T09:20:00Z",
   "count": 8,
+  "inserted": 8,
+  "news": 5,
+  "trend": 3,
+  "slugs": [
+    "man-city-sign-elliot-anderson-british-record-2026",
+    "tottenham-sign-sandro-tonali-club-record-2026",
+    "bayern-sign-ismael-saibari-psv-2026",
+    "nathan-ake-joins-fenerbahce-2026",
+    "crvena-zvezda-5-0-larne-ucl-q2-2026",
+    "kairat-vs-levski-ucl-q3-preview-2026",
+    "dastan-satpaev-chelsea-transfer-kazakhstan-2026",
+    "ballon-dor-2026-top-7-contenders"
+  ],
   "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
+    "man-city-sign-elliot-anderson-british-record-2026",
+    "tottenham-sign-sandro-tonali-club-record-2026",
+    "bayern-sign-ismael-saibari-psv-2026",
+    "nathan-ake-joins-fenerbahce-2026",
+    "crvena-zvezda-5-0-larne-ucl-q2-2026",
+    "kairat-vs-levski-ucl-q3-preview-2026",
+    "dastan-satpaev-chelsea-transfer-kazakhstan-2026",
+    "ballon-dor-2026-top-7-contenders"
   ]
 }
