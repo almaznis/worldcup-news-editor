@@ -1,15 +1,22 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
-  "count": 8,
+  "run_id": "run-20260802-3a3e18d1",
+  "generated_at": "2026-08-02T10:20:00+00:00",
+  "phase": "news_v4_ru_postwc_avgust2026",
+  "counts": {
+    "total": 8,
+    "news": 5,
+    "trend": 3,
+    "inserted": 8
+  },
   "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
-  ]
+    "welbeck-chelsea-transfer-avgust-2026-2",
+    "baltika-dinamo-moskva-2-1-rpl-2-tur-avgust-2026-2",
+    "community-shield-2026-arsenal-manchester-city-preview-3",
+    "saibari-bavariya-transfer-psv-2026-2",
+    "zabarnyi-psg-liverpool-transfer-slukhi-avgust-2026-2",
+    "top-7-pretendentov-zolotoy-myach-2026-yamal",
+    "kairat-levski-liga-chempionov-3-raund-preview-avgust-2026",
+    "top-7-matchey-startovogo-tura-apl-2026-27"
+  ],
+  "note": "Initial batch POST returned HTTP 546 (WORKER_RESOURCE_LIMIT) and appears to have inserted the first 5 articles as base slugs before failing; per-article retry then inserted all 8, so the first 5 returned -2/-3 suffixes (possible duplicate rows). Endpoint is insert-only; orphan duplicates could not be removed."
 }
