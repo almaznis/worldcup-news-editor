@@ -1,15 +1,27 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
+  "run_id": "run-20260803-worldcup-desk-01",
+  "generated_at": "2026-08-03T09:15:00+05:00",
+  "phase": "post_wc2026_transfer_window",
   "count": 8,
+  "counts": {
+    "news": 5,
+    "trend": 3,
+    "inserted": 8
+  },
   "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
-  ]
+    "zenit-orenburg-3-0-glushenkov-hat-trick-rpl-2026",
+    "kolo-muani-juventus-official-transfer-psg-2026",
+    "levski-kairat-champions-league-qualifier-preview-2026",
+    "akhmat-spartak-1-2-barco-rpl-2026",
+    "nathaniel-brown-bayern-munich-transfer-2026-2",
+    "top-7-transfers-summer-2026-2",
+    "dastan-satpaev-chelsea-kairat-transfer-2026-3",
+    "nathan-ake-fenerbahce-manchester-city-2026"
+  ],
+  "slug_collisions": [
+    "nathaniel-brown-bayern-munich-transfer-2026-2",
+    "top-7-transfers-summer-2026-2",
+    "dastan-satpaev-chelsea-kairat-transfer-2026-3"
+  ],
+  "note": "3 slug-коллизии (Brown, Top-7, Satpaev) — базовые slug уже существовали в БД от прежних прогонов, не отражённых в локальном логе; вставлены с суффиксами, помечены как возможные дубли."
 }
