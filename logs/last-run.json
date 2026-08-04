@@ -1,15 +1,22 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
+  "run_id": "run-20260804-6cf9b7de",
+  "generated_at": "2026-08-04T01:30:36Z",
   "count": 8,
-  "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
+  "news": 5,
+  "trend": 3,
+  "slugs": [
+    "henderson-chelsi-transfer-avgust-2026",
+    "salah-trabzonspor-transfer-2026",
+    "gonzalo-garsia-fulhem-real-madrid-2026",
+    "karetsas-borussiya-dortmund-genk-2026",
+    "hornichek-nyukasl-braga-2026",
+    "top-7-transferov-leta-2026",
+    "superkubok-uefa-2026-psg-aston-villa-prevyu",
+    "chempionat-mira-2026-ispaniya-chempion-fakty"
+  ],
+  "publish_note": "8 статей опубликованы. Из-за платформенной ошибки 546 при первом батч-запросе восстановление шло одиночными вставками; в БД образовались 2 дубликата-строки: 'henderson-chelsi-transfer-avgust-2026-2' и 'top-7-transferov-leta-2026-2' (канонические статьи — по базовым слагам).",
+  "duplicate_rows": [
+    "henderson-chelsi-transfer-avgust-2026-2",
+    "top-7-transferov-leta-2026-2"
   ]
 }
