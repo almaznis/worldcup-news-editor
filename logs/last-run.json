@@ -1,15 +1,26 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
+  "run_id": "run-20260806-sportarena-8x",
+  "generated_at": "2026-08-06T09:30:00+05:00",
   "count": 8,
+  "news": 5,
+  "trend": 3,
   "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
+    "salah-trabzonspor-2026",
+    "wc2026-heroes-top7",
+    "gutierrez-leverkusen-2026",
+    "psg-aston-villa-supercup-2026",
+    "vinicius-real-madrid-2026",
+    "top7-transfery-leto-2026",
+    "guimaraes-arsenal-2026",
+    "spartak-krasnodar-rpl-2026"
+  ],
+  "note": "First batch POST returned gateway status 546 after the edge function had already inserted the first 6 articles (images uploaded OK). The per-article retry then created 6 duplicate rows with a -2 suffix and missing images. Canonical published set is the 8 clean slugs listed above (all have images, verified via public storage). The 6 duplicate rows to remove manually: salah-trabzonspor-2026-2, wc2026-heroes-top7-2, gutierrez-leverkusen-2026-2, psg-aston-villa-supercup-2026-2, vinicius-real-madrid-2026-2, top7-transfery-leto-2026-2.",
+  "duplicate_rows_to_remove": [
+    "salah-trabzonspor-2026-2",
+    "wc2026-heroes-top7-2",
+    "gutierrez-leverkusen-2026-2",
+    "psg-aston-villa-supercup-2026-2",
+    "vinicius-real-madrid-2026-2",
+    "top7-transfery-leto-2026-2"
   ]
 }
