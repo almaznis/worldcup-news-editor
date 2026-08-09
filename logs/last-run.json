@@ -1,15 +1,17 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
+  "run_id": "run-20260809-82fe0153",
+  "generated_at": "2026-08-09T01:29:50+00:00",
   "count": 8,
+  "news": 5,
+  "trend": 3,
   "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
+    "bruno-guimaraes-arsenal-transfer-august-2026",
+    "ferran-torres-psg-transfer-august-2026",
+    "ronald-araujo-liverpool-loan-august-2026",
+    "cska-rostov-0-0-rpl-3-tur-august-2026",
+    "bouaddi-manchester-city-lille-august-2026",
+    "spartak-krasnodar-preview-rpl-9-august-2026",
+    "top-7-transferov-leta-2026-4",
+    "kairat-levski-champions-league-preview-august-2026"
   ]
 }
