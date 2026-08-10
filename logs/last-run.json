@@ -1,15 +1,20 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
-  "count": 8,
+  "run_id": "run-20260810-worldcup-transfer-window",
+  "generated_at": "2026-08-10T09:30:00+00:00",
+  "phase": "post_worldcup_transfer_window_v1",
+  "counts": {
+    "total": 8,
+    "news": 5,
+    "trend": 3
+  },
   "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
+    "chalobah-chelsea-como-transfer-august-2026",
+    "uefa-super-cup-2026-psg-aston-villa-preview-2",
+    "mirlind-daku-spartak-rubin-transfer-august-2026",
+    "krasnodar-spartak-2-1-rpl-3-tur-august-2026",
+    "daniel-maldini-cagliari-atalanta-loan-august-2026",
+    "kairat-levski-champions-league-qualifier-second-leg-august-2026",
+    "digne-psg-aston-villa-transfer-august-2026",
+    "top-7-transferov-rpl-leto-2026"
   ]
 }
