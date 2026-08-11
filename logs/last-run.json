@@ -1,15 +1,19 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
+  "run_id": "run-20260811-cb64e842",
+  "generated_at": "2026-08-11T01:43:57+00:00",
+  "phase": "v4_ru_transfers_previews_2026-08-11",
   "count": 8,
+  "news": 5,
+  "trend": 3,
   "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
-  ]
+    "gordon-barcelona-transfer-2026-2",
+    "uefa-super-cup-2026-psg-aston-villa-preview-4",
+    "cucurella-real-madrid-transfer-2026-2",
+    "community-shield-2026-arsenal-manchester-city-preview-5",
+    "hojlund-napoli-permanent-transfer-2026-2",
+    "top-7-transferov-leta-2026-5",
+    "nathan-ake-fenerbahce-transfer-2026",
+    "kairat-levski-sofia-champions-league-2026-27-qualifying"
+  ],
+  "note": "Опубликовано по одному запросу на статью после того, как пакетная публикация всех 8 статей вернула HTTP 546 WORKER_RESOURCE_LIMIT (Edge Function не хватило ресурсов на декодирование 8 base64-изображений). Пакетный запрос мог частично вставить строки до сбоя; несколько slug вернулись с суффиксами (-2/-4/-5), что указывает на вероятные дубликаты на портале. Требуется серверная проверка/очистка (у агента нет доступа на чтение/удаление в БД, только POST-эндпоинт)."
 }
