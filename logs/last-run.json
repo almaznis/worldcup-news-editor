@@ -1,15 +1,33 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
-  "count": 8,
+  "run_id": "run-20260814-114d289a",
+  "generated_at": "2026-08-14T01:41:41.002688+00:00",
+  "phase": "news_v4_ru_post_worldcup_transfers",
+  "counts": {
+    "total": 8,
+    "news": 5,
+    "trend": 3,
+    "inserted": 8,
+    "collisions": 7
+  },
+  "slugs": [
+    "psg-2-1-aston-villa-uefa-super-cup-2026",
+    "nathan-ake-fenerbahce-manchester-city-2026",
+    "premier-league-2026-27-start-arsenal-coventry",
+    "top-7-transferov-leta-2026",
+    "ter-stegen-ajax-arenda-barcelona-2026",
+    "spartak-zenit-rpl-5-tur-23-avgusta-2026-preview",
+    "kairat-levski-liga-chempionov-vylet-2026",
+    "pellegrino-fiorentina-parma-transfer-2026"
+  ],
   "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
-  ]
+    "psg-2-1-aston-villa-uefa-super-cup-2026-2",
+    "nathan-ake-fenerbahce-manchester-city-2026-3",
+    "premier-league-2026-27-start-arsenal-coventry-2",
+    "top-7-transferov-leta-2026-7",
+    "ter-stegen-ajax-arenda-barcelona-2026-2",
+    "spartak-zenit-rpl-5-tur-23-avgusta-2026-preview-2",
+    "kairat-levski-liga-chempionov-vylet-2026-2",
+    "pellegrino-fiorentina-parma-transfer-2026"
+  ],
+  "note": "7 из 8 слагов вернулись с числовым суффиксом – эти сюжеты уже присутствовали в БД от прошлых запусков (локальный лог был неполным). Все статьи вставлены со статусом inserted."
 }
