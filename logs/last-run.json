@@ -1,15 +1,33 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
-  "count": 8,
+  "run_id": "run-20260816-worldcup-editor",
+  "generated_at": "2026-08-16T18:30:00+00:00",
+  "finalized_at": "2026-08-16T01:37:19.582787+00:00",
+  "counts": {
+    "total": 8,
+    "news": 5,
+    "trend": 3,
+    "inserted": 8
+  },
+  "slugs": [
+    "ferran-torres-psg-50m-transfer-2026",
+    "laliga-2026-27-start-barcelona-real-postponed",
+    "cristian-romero-atletico-madrid-transfer-2026",
+    "kairat-anderlecht-europa-league-playoff-preview-2026",
+    "djed-spence-inter-milan-transfer-2026",
+    "top-7-transferov-leta-2026",
+    "anan-khalaili-crystal-palace-transfer-2026",
+    "top-5-bombardirov-chm-2026"
+  ],
   "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
-  ]
+    "ferran-torres-psg-50m-transfer-2026-2",
+    "laliga-2026-27-start-barcelona-real-postponed-2",
+    "cristian-romero-atletico-madrid-transfer-2026-2",
+    "kairat-anderlecht-europa-league-playoff-preview-2026-2",
+    "djed-spence-inter-milan-transfer-2026-2",
+    "top-7-transferov-leta-2026-9",
+    "anan-khalaili-crystal-palace-transfer-2026",
+    "top-5-bombardirov-chm-2026"
+  ],
+  "publish_status": "PARTIAL/DUPLICATED",
+  "incident": "First POST returned HTTP 546 (edge-function error/timeout on 8-image ~2.3MB batch) with empty results but partial DB inserts. Retry re-inserted all 8; 6 came back with -2/-9 suffixes = duplicate rows. Clean singletons: anan-khalaili-crystal-palace-transfer-2026, top-5-bombardirov-chm-2026. Endpoint is insert-only, so duplicates must be removed manually in Supabase. Recommendation: future runs POST in smaller batches (2-3 articles) to avoid 546."
 }
