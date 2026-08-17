@@ -1,15 +1,19 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
+  "run_id": "run-20260817-7ff2cc0d",
+  "generated_at": "2026-08-17T01:51:05Z",
+  "finished_at": "2026-08-17T01:53:12Z",
   "count": 8,
+  "news": 5,
+  "trend": 3,
   "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
-  ]
+    "arsenal-3-0-man-city-community-shield-2026",
+    "cristian-romero-atletico-madrid-transfer-2026-3",
+    "champions-league-playoff-celtic-lask-august-2026",
+    "top-7-transferov-leta-2026-10",
+    "ronald-araujo-liverpool-loan-2026",
+    "kairat-anderlecht-europa-league-playoff-2026",
+    "postecoglou-al-nassr-ronaldo-2026",
+    "la-liga-2026-27-start-barcelona-real-madrid"
+  ],
+  "notes": "Slugs 'cristian-romero-...-3' and 'top-7-transferov-leta-2026-10' received suffixes (pre-existing base slugs in DB from prior runs); content is fresh/distinct for 2026-08-17."
 }
