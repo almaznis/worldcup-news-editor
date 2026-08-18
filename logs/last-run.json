@@ -1,15 +1,30 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
+  "run_id": "run-20260818-wc2026aug",
+  "generated_at": "2026-08-18T01:25:11Z",
   "count": 8,
+  "counts": {
+    "news": 5,
+    "trend": 3
+  },
+  "requested_slugs": [
+    "atletico-madrid-sign-morten-hjulmand-2026",
+    "sevilla-2-1-rayo-vallecano-laliga-round1-2026",
+    "fenerbahce-lyon-champions-league-playoff-2026",
+    "top-7-summer-2026-transfers",
+    "bayern-munich-sign-ismael-saibari-2026",
+    "kairat-almaty-anderlecht-europa-league-playoff-2026",
+    "top-7-stars-world-cup-2026",
+    "premier-league-2026-27-opening-weekend-preview"
+  ],
   "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
-  ]
+    "atletico-madrid-sign-morten-hjulmand-2026-2",
+    "sevilla-2-1-rayo-vallecano-laliga-round1-2026-2",
+    "fenerbahce-lyon-champions-league-playoff-2026-2",
+    "top-7-summer-2026-transfers-4",
+    "bayern-munich-sign-ismael-saibari-2026-2",
+    "kairat-almaty-anderlecht-europa-league-playoff-2026-2",
+    "top-7-stars-world-cup-2026-3",
+    "premier-league-2026-27-opening-weekend-preview"
+  ],
+  "incident": "First POST attempt via urllib returned HTTP 546 after inserting most items; the curl retry re-inserted, producing duplicate rows (suffixed slugs). Publish endpoint is write-only (no delete/read), so duplicates require manual cleanup."
 }
