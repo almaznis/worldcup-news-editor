@@ -1,15 +1,31 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
+  "run_id": "run-20260819-sportarena-01",
+  "generated_at": "2026-08-19T01:25:00+00:00",
+  "published_at": "2026-08-19T01:39:03.442995+00:00",
+  "phase": "post_worldcup_transfer_window_v1",
   "count": 8,
-  "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
-  ]
+  "news_count": 5,
+  "trend_count": 3,
+  "endpoint": "https://jcezmolckegxlvizvmtj.supabase.co/functions/v1/publish-articles",
+  "all_inserted": true,
+  "slugs": [
+    "rodri-manchester-siti-barselona-transfer-2026",
+    "fenerbahce-lion-1-1-liga-chempionov-pley-off-2026",
+    "aksel-vitsel-nicca-transfer-2026",
+    "kairat-anderlekht-liga-evropy-pley-off-2026",
+    "artem-karpukas-zenit-medosmotr-transfer-2026",
+    "levski-aek-0-0-liga-chempionov-pley-off-2026",
+    "aleksey-batrakov-galatasaray-transfer-2026",
+    "top-7-transferov-leta-2026-evropa-sng"
+  ],
+  "db_ids": {
+    "rodri-manchester-siti-barselona-transfer-2026": "6f9249f9-6aed-4342-91cc-20e5db237f7e",
+    "fenerbahce-lion-1-1-liga-chempionov-pley-off-2026": "26c692bc-42cf-48fd-83ec-cf84f3b0190a",
+    "aksel-vitsel-nicca-transfer-2026": "5aec8132-36e0-4327-b01b-d31a0e36b38a",
+    "kairat-anderlekht-liga-evropy-pley-off-2026": "f6d92737-ebbf-4b2f-969c-d852f2eae616",
+    "artem-karpukas-zenit-medosmotr-transfer-2026": "307759e6-92d6-4e4d-b615-c53df8ec177d",
+    "levski-aek-0-0-liga-chempionov-pley-off-2026": "3898facc-aca9-490a-b7a5-dc93d0a9a486",
+    "aleksey-batrakov-galatasaray-transfer-2026": "6aee06ff-4ef5-4862-8965-1688b6fe64ab",
+    "top-7-transferov-leta-2026-evropa-sng": "11e66232-bf7a-47c6-a926-4f34498b0b78"
+  }
 }
