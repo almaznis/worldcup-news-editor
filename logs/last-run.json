@@ -1,15 +1,21 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
-  "count": 8,
-  "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
-  ]
+  "run_id": "run-20260821-wcna8",
+  "generated_at": "2026-08-21T01:40:07+00:00",
+  "counts": {
+    "total": 8,
+    "news": 5,
+    "trend": 3,
+    "inserted": 8
+  },
+  "slugs": [
+    "batrakov-galatasaray-transfer-2026",
+    "kairat-anderlecht-0-3-europa-league-2026",
+    "joao-cancelo-barcelona-2026",
+    "fenerbahce-lyon-champions-league-playoff-2026-3",
+    "diego-moreira-milan-transfer-2026",
+    "top-7-transferov-leta-2026-11",
+    "lukaku-fenerbahce-transfer-2026",
+    "top-5-dorogih-transferov-rossijskih-futbolistov"
+  ],
+  "endpoint": "https://jcezmolckegxlvizvmtj.supabase.co/functions/v1/publish-articles"
 }
