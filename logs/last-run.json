@@ -1,15 +1,28 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
+  "run_id": "run-20260824-a10fd42f",
+  "generated_at": "2026-08-24T09:30:00Z",
+  "published_at": "2026-08-24T01:39:17.084150+00:00",
   "count": 8,
+  "news_count": 5,
+  "trend_count": 3,
   "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
+    "baleba-manchester-united-70m-transfer-2026",
+    "man-city-2-1-bournemouth-maresca-debut-2026",
+    "breel-embolo-rennes-atlanta-united-transfer-2026",
+    "newcastle-2-2-liverpool-szoboszlai-penalty-2026",
+    "top-7-transfers-summer-2026-rodri-rogers",
+    "brighton-4-0-aston-villa-matchday-1-2026",
+    "bayern-stuttgart-bundesliga-opener-preview-2026",
+    "supercup-dortmund-1-2-bayern-olise-2026"
+  ],
+  "slugs": [
+    "baleba-manchester-united-70m-transfer-2026",
+    "man-city-2-1-bournemouth-maresca-debut-2026",
+    "breel-embolo-rennes-atlanta-united-transfer-2026",
+    "newcastle-2-2-liverpool-szoboszlai-penalty-2026",
+    "top-7-transfers-summer-2026-rodri-rogers",
+    "brighton-4-0-aston-villa-matchday-1-2026",
+    "bayern-stuttgart-bundesliga-opener-preview-2026",
+    "supercup-dortmund-1-2-bayern-olise-2026"
   ]
 }
