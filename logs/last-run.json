@@ -1,15 +1,21 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
+  "run_id": "run-20260825T013526Z-6bdf8fb2",
+  "generated_at": "2026-08-25T01:36:57.523046+00:00",
   "count": 8,
+  "counts": {
+    "news": 5,
+    "trend": 3,
+    "inserted": 8
+  },
   "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
-  ]
+    "newcastle-liverpool-2-2-premier-league-2026-27",
+    "hull-city-2-0-manchester-united-premier-league-2026",
+    "darwin-nunez-al-diriyah-loan-al-hilal-2026",
+    "joao-cancelo-barcelona-permanent-transfer-2026",
+    "lukaku-fenerbahce-napoli-transfer-2026",
+    "batrakov-lokomotiv-galatasaray-transfer-2026-2",
+    "kazakhstan-nations-league-2026-27-preview",
+    "top-7-favorites-champions-league-2026-27"
+  ],
+  "note": "batrakov slug returned with -2 suffix: story already existed in DB from a prior run (duplicate not present in local history log; endpoint is insert-only so it could not be removed)."
 }
