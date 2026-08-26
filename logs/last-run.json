@@ -1,15 +1,25 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
+  "run_id": "run-20260826-worldcup-news-8",
+  "generated_at": "2026-08-26T01:40:40Z",
+  "phase": "media_v4_ru_landscape_post_wc2026",
   "count": 8,
+  "inserted": 8,
+  "suffixed_duplicates": [
+    "savinho-tottenham-transfer-august-2026-2",
+    "newcastle-liverpool-2-2-szoboszlai-august-2026-2",
+    "kairat-anderlecht-europa-league-playoff-2026-6",
+    "top-7-transferov-leta-2026-13",
+    "baleba-manchester-united-transfer-august-2026-2"
+  ],
   "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
-  ]
+    "savinho-tottenham-transfer-august-2026-2",
+    "newcastle-liverpool-2-2-szoboszlai-august-2026-2",
+    "kairat-anderlecht-europa-league-playoff-2026-6",
+    "top-7-transferov-leta-2026-13",
+    "baleba-manchester-united-transfer-august-2026-2",
+    "spartak-zenit-2-0-rpl-5-tur-2026",
+    "crystal-palace-manchester-city-preview-2026",
+    "curtis-jones-inter-transfer-august-2026"
+  ],
+  "note": "Опубликовано 8 материалов (5 news + 3 trend) через publish-articles. 5 слагов получили суффикс (-N) – значит соответствующие базовые слаги уже присутствовали в БД (в т.ч. из-за неудачной первой batch-попытки, завершившейся HTTP 546 после частичной вставки). Требуется ручная проверка БД на дубликаты. Эндпоинт только POST – удаление/чтение невозможно."
 }
