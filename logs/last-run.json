@@ -1,15 +1,20 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
+  "run_id": "run-20260829-6a761c42-v4",
+  "generated_at": "2026-08-29T02:25:00+06:00",
+  "phase": "live_news_2026_08_29",
   "count": 8,
-  "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
+  "counts": {
+    "news": 5,
+    "trend": 3
+  },
+  "slugs": [
+    "champions-league-2026-27-draw-top-matches",
+    "nicolas-jackson-aston-villa-club-record-2026",
+    "alaves-villarreal-la-liga-boye-2026",
+    "rafael-leao-galatasaray-transfer-2026",
+    "kazakhstan-nations-league-2026-vant-schip",
+    "malick-diouf-brentford-transfer-2026",
+    "ballon-dor-2026-contenders-ranking",
+    "russia-iran-friendly-kazan-september-2026"
   ]
 }
