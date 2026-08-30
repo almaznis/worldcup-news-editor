@@ -1,15 +1,33 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
-  "count": 8,
-  "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
-  ]
+  "run_id": "run-20260830-worldcup-agent",
+  "generated_at": "2026-08-30T09:20:00Z",
+  "completed_at": "2026-08-30T01:36:44.593647+00:00",
+  "counts": {
+    "total": 8,
+    "news": 5,
+    "trend": 3,
+    "inserted": 8,
+    "error": 0
+  },
+  "slugs": [
+    "fakel-zenit-rpl-6-tur-2026-08-29",
+    "champions-league-2026-27-draw-top-fixtures",
+    "levante-real-betis-laliga-5-2-2026-08-29",
+    "kpl-2026-title-race-ordabasy-kairat-astana",
+    "lokomotiv-dinamo-rpl-6-tur-2026-08-29",
+    "rpl-2026-27-start-krasnodar-perfect-run",
+    "spartak-orenburg-rpl-preview-2026-08-30",
+    "akhmat-krylya-sovetov-rpl-6-tur-2026-08-29"
+  ],
+  "db_ids": [
+    "03c31dbb-13dd-410e-b14a-3992935e0f76",
+    "b28fa417-b02f-448c-94ea-3e23839dac07",
+    "32149827-ec4d-44f2-a2ba-5735de1b33a1",
+    "0eac0044-fb57-4e46-95e3-d1f2031b8ade",
+    "5b9fc1aa-0892-496c-924c-0b3efbd3ce9b",
+    "601e7636-71f6-43be-bb83-6751984bbe78",
+    "41657836-7186-4fb8-bc32-f45f66e6f88a",
+    "b84d9aa3-0e13-4e50-9baa-928c19e39b43"
+  ],
+  "endpoint": "https://jcezmolckegxlvizvmtj.supabase.co/functions/v1/publish-articles"
 }
