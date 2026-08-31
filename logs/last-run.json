@@ -1,15 +1,28 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
+  "run_id": "run-20260831-9644da6c",
+  "generated_at": "2026-08-31T01:25:53.327360+00:00",
   "count": 8,
+  "inserted_count": 8,
+  "news": 5,
+  "trend": 3,
+  "slugs": [
+    "real-madrid-4-0-malaga-laliga-2026",
+    "real-madrid-konate-cucurella-transfers-2026",
+    "levante-5-2-real-betis-laliga-2026",
+    "barcelona-gordon-adeyemi-transfers-2026",
+    "aston-villa-arsenal-preview-2026-08-31",
+    "champions-league-2026-27-draw-top-matches",
+    "kairat-almaty-conference-league-2026-27",
+    "top-transfers-summer-2026"
+  ],
   "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
+    "real-madrid-4-0-malaga-laliga-2026",
+    "real-madrid-konate-cucurella-transfers-2026",
+    "levante-5-2-real-betis-laliga-2026",
+    "barcelona-gordon-adeyemi-transfers-2026",
+    "aston-villa-arsenal-preview-2026-08-31",
+    "champions-league-2026-27-draw-top-matches-2",
+    "kairat-almaty-conference-league-2026-27",
+    "top-transfers-summer-2026"
   ]
 }
