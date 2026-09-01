@@ -1,15 +1,30 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
+  "run_id": "run-20260901-341e26c5",
+  "generated_at": "2026-09-01T01:37:19+00:00",
+  "phase": "news+trends_ru_v4",
   "count": 8,
-  "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
-  ]
+  "counts": {
+    "news": 5,
+    "trend": 3
+  },
+  "slugs": [
+    "tottenham-ndiaye-everton-richarlison-deadline-day-2026",
+    "manchester-united-5-2-ipswich-bruno-fernandes-hat-trick",
+    "kazakhstan-nations-league-2026-27-faroe-slovakia-preview",
+    "tottenham-tonali-club-record-transfer-newcastle-2026",
+    "chelsea-4-3-brighton-palmer-thriller-stamford-bridge",
+    "top-7-transfers-summer-2026-window-premier-league",
+    "cody-gakpo-manchester-city-transfer-collapse-liverpool-2026",
+    "kairat-almaty-conference-league-2026-27-league-phase-preview"
+  ],
+  "db_ids": {
+    "tottenham-ndiaye-everton-richarlison-deadline-day-2026": "930e7d3e-8ff5-4945-8993-98d1a367e05d",
+    "manchester-united-5-2-ipswich-bruno-fernandes-hat-trick": "36a65089-0ff8-4b5d-97d1-a4b37e9e3345",
+    "kazakhstan-nations-league-2026-27-faroe-slovakia-preview": "e84970d5-f1fb-4d52-976c-ba4181fda1a0",
+    "tottenham-tonali-club-record-transfer-newcastle-2026": "bff9274e-d3a4-403e-819b-5c3650a3559c",
+    "chelsea-4-3-brighton-palmer-thriller-stamford-bridge": "2153113b-d3c1-466c-97e0-c106217760f2",
+    "top-7-transfers-summer-2026-window-premier-league": "a379475a-29b7-4699-88bb-cd9ea8152afd",
+    "cody-gakpo-manchester-city-transfer-collapse-liverpool-2026": "9ddcc97d-9735-4373-918a-13b970a0cffe",
+    "kairat-almaty-conference-league-2026-27-league-phase-preview": "dede4a4d-92d3-484f-b367-fef76f308cb6"
+  }
 }
