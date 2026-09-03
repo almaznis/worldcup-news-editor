@@ -1,15 +1,16 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
-  "count": 8,
+  "run_id": "run-20260903-a831ebcc-v-verified",
+  "generated_at": "2026-09-03T01:23:31.319018+00:00",
+  "phase": "verified_only_3articles_2026-09-03",
+  "counts": {
+    "total": 3,
+    "news": 2,
+    "trend": 1
+  },
+  "note": "Опубликовано 3 проверяемые статьи вместо 8: остальные кандидаты не удалось подтвердить по двум независимым источникам без риска фабрикации (см. отчёт).",
   "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
+    "europe-summer-transfer-window-2026-closes-record-premier-league",
+    "champions-league-2026-27-matchday-1-preview-2",
+    "spain-world-cup-2026-champions-final-argentina"
   ]
 }
