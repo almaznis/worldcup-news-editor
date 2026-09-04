@@ -1,15 +1,16 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
+  "run_id": "run-20260904-dc0f32f5",
+  "generated_at": "2026-09-04T09:20:00Z",
   "count": 8,
   "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
-  ]
+    "gabriel-jesus-barcelona-transfer-sentyabr-2026",
+    "liga-chempionov-2026-27-obzor-1-tura",
+    "manchester-city-enzo-fernandez-rekord-2026",
+    "kazahstan-liga-natsiy-2026-preview",
+    "barcola-liverpool-rekordnyy-transfer-2026",
+    "top-10-transferov-leta-2026",
+    "manchester-yunayted-sabah-lch-2026",
+    "rossiya-iran-tovarishheskiy-match-kazan-2026"
+  ],
+  "phase": "run-20260904"
 }
