@@ -1,15 +1,20 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
-  "count": 8,
+  "run_id": "run-20260905-kz-sept-window-v2",
+  "generated_at": "2026-09-05T09:30:00Z",
+  "counts": {
+    "total": 8,
+    "inserted": 8,
+    "news": 5,
+    "trend": 3
+  },
   "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
+    "enzo-fernandez-man-city-record-transfer-2026-2",
+    "champions-league-2026-27-league-phase-preview-2",
+    "carlos-baleba-manchester-united-transfer-2026-2",
+    "top-7-samyh-dorogih-transferov-leta-2026-4",
+    "yan-diomande-real-madrid-transfer-2026-2",
+    "kairat-almaty-liga-chempionov-2026-27-2",
+    "ballon-dor-2026-favority-reyting-2",
+    "kazakhstan-liga-natsiy-2026-27-2"
   ]
 }
