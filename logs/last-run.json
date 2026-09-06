@@ -1,15 +1,41 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
-  "count": 8,
-  "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
-  ]
+  "run_id": "run-20260906-editor",
+  "ran_at": "2026-09-06T17:23:55.894611Z",
+  "portal": "Sport Arena Hub / Футбол.kz",
+  "published": 4,
+  "kazakh": 2,
+  "world": 2,
+  "articles": [
+    {
+      "slug": "kpl-2026-round-25-ordabasy-okzhetpes-kairat-title-race",
+      "id": "ffce66a5-2df5-46b5-9b98-860d49877ea0",
+      "title": "«Ордабасы» уступил «Окжетпесу» 1:2: «Кайрат» – в очке от лидера КПЛ",
+      "category": "Казахстан",
+      "type": "match_report"
+    },
+    {
+      "slug": "kazakhstan-nations-league-2026-27-van-t-schip-squad-satpaev",
+      "id": "9ef10026-8a74-4aa7-b865-09d98eaa1f1a",
+      "title": "Ван 'т Схип назвал состав на Лигу наций: Сатпаев из «Челси» – среди 41 игрока",
+      "category": "Казахстан",
+      "type": "preview"
+    },
+    {
+      "slug": "everton-manchester-united-2-2-apl-round-3-2026",
+      "id": "e63a87ee-0366-4c23-864e-d0a556509c0a",
+      "title": "«Эвертон» – «Манчестер Юнайтед» 2:2: хозяева спасли матч на 90+6-й минуте",
+      "category": "Европа",
+      "type": "match_report"
+    },
+    {
+      "slug": "barcelona-valencia-5-0-laliga-round-4-2026",
+      "id": "7f4564ed-6bf6-4a7c-b40c-079c28abda78",
+      "title": "«Барселона» – «Валенсия» 5:0: дубль Ямаля и четыре победы подряд в Ла Лиге",
+      "category": "Европа",
+      "type": "match_report"
+    }
+  ],
+  "fixtures_posted": 4,
+  "dropped_duplicates": [],
+  "rejected": []
 }
