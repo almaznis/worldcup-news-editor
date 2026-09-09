@@ -1,15 +1,18 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
-  "count": 8,
-  "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
+  "run_id": "run-20260909-conf-cl-md1",
+  "date": "2026-09-09",
+  "published": 1,
+  "updated": 2,
+  "kz_world_split": "1 KZ / 2 world",
+  "inserted_slugs": [
+    "kairat-zhenis-kpl-postponed-match"
+  ],
+  "updated_ids": [
+    "72473b22-1556-40bd-96a3-d98dd019732c",
+    "cd3ac7d7-3f40-4304-939a-62854af348cb"
+  ],
+  "fixtures_upserted": [
+    "Кайрат-Женис КПЛ 2026-09-09",
+    "Рига-Кайрат ЛК 2026-10-15"
   ]
 }
