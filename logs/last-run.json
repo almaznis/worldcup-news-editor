@@ -1,15 +1,21 @@
 {
-  "run_id": "run-20260607-c2721e42-v3",
-  "phase": "media_v3_ru_portrait",
-  "count": 8,
+  "run_id": "run-20260912-f6d5d4d5",
+  "date": "2026-09-12",
+  "phase": "daily_ru_landscape",
+  "count": 4,
+  "kazakh": 2,
+  "world": 2,
   "db_slugs": [
-    "neymar-calf-injury-world-cup-2026-3",
-    "belgium-5-0-tunisia-world-cup-2026-friendly-3",
-    "germany-karl-injured-ouedraogo-called-up-wc2026-3",
-    "england-1-0-new-zealand-wc2026-friendly-3",
-    "messi-fitness-argentina-world-cup-2026-opener-3",
-    "top-7-favourites-world-cup-2026-3",
-    "norway-vs-iraq-haaland-world-cup-debut-june-2026-3",
-    "mexico-vs-south-africa-world-cup-2026-opening-3"
-  ]
+    "satpaev-injury-burnley-loan-chelsea-recovery",
+    "aktobe-new-uefa-category-4-stadium",
+    "manchester-united-manchester-city-derby-preview",
+    "dembele-ballon-dor-2026-top-3-yamal-snub"
+  ],
+  "ids": [
+    "6317162b-ba64-48ef-b151-2e5f055b5105",
+    "c91e96ff-2d49-488b-be50-480dd7933100",
+    "d31372d5-f98f-4e98-aad4-99d4032324d2",
+    "9ee3f0c4-024c-4d87-b2e2-e36e5c6df5cc"
+  ],
+  "notes": "4 articles (2 Kazakhstan / 2 world). Thin Kazakh news day: Conference League phase starts October, Nations League matches Sept 26; KPL title race already covered Sept 10-11. No new duplicates. No kz-fixtures posted (no Kazakh match covered; kickoff times unverified)."
 }
